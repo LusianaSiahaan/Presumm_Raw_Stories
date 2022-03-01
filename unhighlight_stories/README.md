@@ -1,0 +1,1 @@
+Folder berikut untuk menyimpan file buku yang sudah dikonversi ke dalam bentuk story tapi belum dihighlight 
