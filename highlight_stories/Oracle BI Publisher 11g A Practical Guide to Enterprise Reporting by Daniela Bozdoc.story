@@ -2,4 +2,4 @@ Oracle BI Publisher 11g:   A Practical Guide to   Enterprise Reporting  Create a
 
 @highlight
 
-A practical tutorial for improving your Enterprise reporting skills with Oracle BI Publisher 11g. Master report migration, template design, and E-Business Suite integration. A practical guide brimming with tips about all the new features of the 11g release.
+A practical tutorial for improving your Enterprise reporting skills with Oracle BI Publisher 11g. Master report migration, template design, and E-Business Suite integration. A practical guide brimming with tips about all the new features of the 11g release

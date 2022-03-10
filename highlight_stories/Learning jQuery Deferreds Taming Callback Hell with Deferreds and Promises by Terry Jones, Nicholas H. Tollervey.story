@@ -2,13 +2,4 @@ Learning jQuery Deferreds  Terry Jones and Nicholas H. Tollervey   Learning jQue
 
 @highlight
 
-Orchestrating asynchronous function calls in JavaScript often leads to callback hell, but there is a reliable way to avoid this painful state of affairs. With this concise and simple guide, you’ll learn how to use jQuery deferreds and promises, an elegant approach for managing asynchronous calls in both client and server applications.
-
-This book contains 18 examples that use deferreds to solve progressively challenging real-world programming problems, along with 75 stimulating puzzles (and their solutions) that will help you understand how and when to use deferreds. You’ll learn new tricks in a fun way, and become immersed in the practice of event-based programming.
-
-Understand the logic behind creating deferreds and returning promises
-Get a structured explanation of jQuery’s deferred API
-Delve into the dynamics of using deferreds
-Explore a broad collection of useful deferred recipes developed by the authors
-Gain hands-on experience by solving challenges that accompany each recipe
-Go deeper into deferreds: encounter novel abstractions and mind-bending use cases
+Orchestrating asynchronous function calls in JavaScript often leads to callback hell, but there is a reliable way to avoid this painful state of affairs. With this concise and simple guide, you’ll learn how to use jQuery deferreds and promises, an elegant approach for managing asynchronous calls in both client and server applications. This book contains 18 examples that use deferreds to solve progressively challenging real-world programming problems, along with 75 stimulating puzzles (and their solutions) that will help you understand how and when to use deferreds. You’ll learn new tricks in a fun way, and become immersed in the practice of event-based programming. Understand the logic behind creating deferreds and returning promises, Get a structured explanation of jQuery’s deferred API, Delve into the dynamics of using deferreds, Explore a broad collection of useful deferred recipes developed by the authors, Gain hands-on experience by solving challenges that accompany each recipe, Go deeper into deferreds: encounter novel abstractions and mind-bending use cases

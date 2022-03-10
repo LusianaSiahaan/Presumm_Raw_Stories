@@ -2,6 +2,4 @@ Learn  Rails 6  Accelerated Web Development with   Ruby on Rails — Adam Notodi
 
 @highlight
 
-Effectively learn and apply software development and engineering techniques to web application development using Rails 6 with this accelerated tutorial. This book teaches modern engineering practices including git flow, containerization, debugging, testing, and deployment. Along the way, you’ll see how to build a social network application and then deploy it on a cloud provider such as Amazon Web Services.
-
-After reading and using this book, you'll be able to effectively build and deploy your Rails application to the cloud. You’ll also have used the Ruby on Rails framework to carry out the rapid development of an idea into a product without sacrificing quality.
+Effectively learn and apply software development and engineering techniques to web application development using Rails 6 with this accelerated tutorial. This book teaches modern engineering practices including git flow, containerization, debugging, testing, and deployment. Along the way, you’ll see how to build a social network application and then deploy it on a cloud provider such as Amazon Web Services. After reading and using this book, you'll be able to effectively build and deploy your Rails application to the cloud. You’ll also have used the Ruby on Rails framework to carry out the rapid development of an idea into a product without sacrificing quality

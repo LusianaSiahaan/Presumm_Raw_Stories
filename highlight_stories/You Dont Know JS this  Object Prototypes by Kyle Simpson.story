@@ -2,5 +2,4 @@
 
 @highlight
 
-No matter how much experience you have with javascript, odds are you don’t fully understand the language. This concise, in-depth guide takes you inside javascript’s this structure and object prototypes. You’ll learn how they work and why they’re integral to behavior delegation—a design pattern in which objects are linked, rather than cloned.
-Like other books in the “You Don’t Know JS” series, this and Object Prototypes dives into trickier parts of the language that many javascript programmers simply avoid. Armed with this knowledge, you can become a true javascript master.
+No matter how much experience you have with javascript, odds are you don’t fully understand the language. This concise, in-depth guide takes you inside javascript’s this structure and object prototypes. You’ll learn how they work and why they’re integral to behavior delegation—a design pattern in which objects are linked, rather than cloned. Like other books in the “You Don’t Know JS” series, this and Object Prototypes dives into trickier parts of the language that many javascript programmers simply avoid. Armed with this knowledge, you can become a true javascript master

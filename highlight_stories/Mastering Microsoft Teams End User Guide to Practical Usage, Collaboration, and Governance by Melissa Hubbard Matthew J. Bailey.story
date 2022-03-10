@@ -2,8 +2,4 @@ Mastering  Microsoft Teams  End User Guide to Practical Usage,  Collaboration, a
 
 @highlight
 
-Do you need to learn how to use Microsoft Teams? Are you questioning how to drive user adoption, govern content, and manage access for your Teams deployment? Either way, Mastering Microsoft Teams is your one-stop-shop to learning everything you need to know to find success with Microsoft Teams.
-
-Microsoft's new chat-based collaboration software has many rich features that enable teams to be more efficient, and save valuable time and resources. However, as with all software, there is a learning curve and pitfalls that should be avoided.
-
-Begin by learning the core components and use cases for Teams. From there the authors guide you through ideas to create governance and adoption plans that make sense for your organization or Customer. Wrap up with an understanding of features and services in progress, and a road map to the future of the product.
+Do you need to learn how to use Microsoft Teams? Are you questioning how to drive user adoption, govern content, and manage access for your Teams deployment? Either way, Mastering Microsoft Teams is your one-stop-shop to learning everything you need to know to find success with Microsoft Teams. Microsoft's new chat-based collaboration software has many rich features that enable teams to be more efficient, and save valuable time and resources. However, as with all software, there is a learning curve and pitfalls that should be avoided. Begin by learning the core components and use cases for Teams. From there the authors guide you through ideas to create governance and adoption plans that make sense for your organization or Customer. Wrap up with an understanding of features and services in progress, and a road map to the future of the product

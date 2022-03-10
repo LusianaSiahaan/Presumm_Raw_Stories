@@ -2,15 +2,4 @@
 
 @highlight
 
-Why is PHP the most widely used programming language on the web? This updated edition teaches everything you need to know to create effective web applications using the latest features in PHP 7.4. You’ll start with the big picture and then dive into language syntax, programming techniques, and other details, using examples that illustrate both correct usage and common idioms.
-
-If you have a working knowledge of HTML, authors Kevin Tatroe and Peter MacIntyre provide many style tips and practical programming advice in a clear and concise manner to help you become a top-notch PHP programmer.
-
-Understand what’s possible when you use PHP programs
-Learn language fundamentals, including data types, variables, operators, and flow control statements
-Explore functions, strings, arrays, and objects
-Apply common web application techniques, such as form processing, data validation, session tracking, and cookies
-Interact with relational databases like MySQL or NoSQL databases such as MongoDB
-Generate dynamic images, create PDF files, and parse XML files
-Learn secure scripts, error handling, performance tuning, and other advanced topics
-Get a quick reference to PHP core functions and standard extensions
+Why is PHP the most widely used programming language on the web? This updated edition teaches everything you need to know to create effective web applications using the latest features in PHP 7.4. You’ll start with the big picture and then dive into language syntax, programming techniques, and other details, using examples that illustrate both correct usage and common idioms. If you have a working knowledge of HTML, authors Kevin Tatroe and Peter MacIntyre provide many style tips and practical programming advice in a clear and concise manner to help you become a top-notch PHP programmer. Understand what’s possible when you use PHP programs. Learn language fundamentals, including data types, variables, operators, and flow control statements. Explore functions, strings, arrays, and objects. Apply common web application techniques, such as form processing, data validation, session tracking, and cookies. Interact with relational databases like MySQL or NoSQL databases such as MongoDB. Generate dynamic images, create PDF files, and parse XML files. Learn secure scripts, error handling, performance tuning, and other advanced topics. Get a quick reference to PHP core functions and standard extensions

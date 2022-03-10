@@ -2,16 +2,4 @@ Node.js	for	.NET	Developers  David	Gaynes   PUBLISHED	BY Microsoft	Press A	divis
 
 @highlight
 
-Build scalable, high-traffic websites and web applications with Node.js
-For many .NET programmers, Node.js represents a new way to build high-traffic websites and applications. Now there’s a practical, concise introduction to Node.js specifically for Microsoft developers. David Gaynes guides you through the entire Node.js development process. Using Microsoft Visual Studio examples, he addresses everything from setting up servers and authorization through delivering rich CSS pages packed with graphics and data-driven content. Gaynes clearly explains Node.js’s async model, coding approach, request/response paradigm, site structure, data management, security, and more. This quick guide will help you apply your hard-won .NET skills to Node.js.
-
-Expert guidance showing you how to:
-Choose, organize, and configure the tools you need to build Node.js solutions in Visual Studio
-Apply JavaScript coding practices that help you avoid problems in Node.js
-Work with callback functions and the Node.js asynchronous programming model
-Set up a Node.js project and use what you know about MVVM and MVC patterns
-Control the entire Node.js request/response life cycle
-Establish site structure, routes, and access to static resources
-Manage data through caching, forms, IO techniques, and file uploads
-Integrate data from Microsoft SQL Server and other databases
-Use Passport to integrate simple, flexible authentication
+Build scalable, high-traffic websites and web applications with Node.js. For many .NET programmers, Node.js represents a new way to build high-traffic websites and applications. Now there’s a practical, concise introduction to Node.js specifically for Microsoft developers. David Gaynes guides you through the entire Node.js development process. Using Microsoft Visual Studio examples, he addresses everything from setting up servers and authorization through delivering rich CSS pages packed with graphics and data-driven content. Gaynes clearly explains Node.js’s async model, coding approach, request/response paradigm, site structure, data management, security, and more. This quick guide will help you apply your hard-won .NET skills to Node.js. Expert guidance showing you how to: Choose, organize, and configure the tools you need to build Node.js solutions in Visual Studio; Apply JavaScript coding practices that help you avoid problems in Node.js; Work with callback functions and the Node.js asynchronous programming model; Set up a Node.js project and use what you know about MVVM and MVC patterns; Control the entire; Node.js request/response life cycle; Establish site structure, routes, and access to static resources; Manage data through caching, forms, IO techniques, and file uploads; Integrate data from Microsoft SQL Server and other databases; Use Passport to integrate simple, flexible authentication

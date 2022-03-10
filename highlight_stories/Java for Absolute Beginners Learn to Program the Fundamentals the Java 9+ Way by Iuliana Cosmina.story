@@ -3,18 +3,4 @@ Java   for Absolute  Beginners  Learn to Program the Fundamentals   the Java 9+ 
 
 @highlight
 
-Write your first code in Java using simple, step-by-step examples that model real-word objects and events, making learning easy. With this book you’ll be able to pick up the concepts without fuss. Java for Absolute Beginners teaches Java development in language anyone can understand, giving you the best possible start. You’ll see clear code descriptions and layout so that you can get your code running as soon as possible. After reading this book, you'll come away with the basics to get started writing programs in Java.
-Author Iuliana Cosmina focuses on practical knowledge and getting up to speed quickly―all the bits and pieces a novice needs to get started programming in Java. First, you’ll discover how Java is executed, what type of language it is, and what it is good for. With the theory out of the way, you’ll install Java, choose an editor such as IntelliJ IDEA, and write your first simple Java program. Along the way you’ll compile and execute this program so it can run on any platform that supports Java. As part of this tutorial you’ll see how to write high-quality code by following conventions and respecting well-known programming principles, making your projects more professional and efficient.
-Finally, alongside the core features of Java, you’ll learn skills in some of the newest and most exciting features of the language: Generics, Lambda expressions, modular organization, local-variable type inference, and local variable syntax for Lambda expressions.
-Java for Absolute Beginners gives you all you need to start your Java 9+ programming journey. No experience necessary.
-
-What You'll Learn
-• Use data types, operators, and the new stream API
-• Install and use a build tool such as Gradle
-• Build interactive Java applications with JavaFX
-• Exchange data using the new JSON APIs
-• Play with images using multi-resolution APIs
-• Use the publish-subscribe framework
-
-Who This Book Is For
-Those who are new to programming and who want to start with Java.
+Write your first code in Java using simple, step-by-step examples that model real-word objects and events, making learning easy. With this book you’ll be able to pick up the concepts without fuss. Java for Absolute Beginners teaches Java development in language anyone can understand, giving you the best possible start. You’ll see clear code descriptions and layout so that you can get your code running as soon as possible. After reading this book, you'll come away with the basics to get started writing programs in Java. Author Iuliana Cosmina focuses on practical knowledge and getting up to speed quickly―all the bits and pieces a novice needs to get started programming in Java. First, you’ll discover how Java is executed, what type of language it is, and what it is good for. With the theory out of the way, you’ll install Java, choose an editor such as IntelliJ IDEA, and write your first simple Java program. Along the way you’ll compile and execute this program so it can run on any platform that supports Java. As part of this tutorial you’ll see how to write high-quality code by following conventions and respecting well-known programming principles, making your projects more professional and efficient. Finally, alongside the core features of Java, you’ll learn skills in some of the newest and most exciting features of the language: Generics, Lambda expressions, modular organization, local-variable type inference, and local variable syntax for Lambda expressions. Java for Absolute Beginners gives you all you need to start your Java 9+ programming journey. No experience necessary

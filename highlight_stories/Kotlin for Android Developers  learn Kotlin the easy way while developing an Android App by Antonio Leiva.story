@@ -2,5 +2,4 @@ Kotlin for Android Developers Learn Kotlin the easy way while developing an Andr
 
 @highlight
 
-Learn Kotlin the easy way while developing an Android App.
-Kotlin is the new official language to write Android Apps, and thanks to this book, you'll be writing code in no time. Straight to the point, practical and full of examples, it will show you the language while developing an Android App. Learn the Kotlin and start enjoying Android development again with this powerful and modern language.
+Learn Kotlin the easy way while developing an Android App. Kotlin is the new official language to write Android Apps, and thanks to this book, you'll be writing code in no time. Straight to the point, practical and full of examples, it will show you the language while developing an Android App. Learn the Kotlin and start enjoying Android development again with this powerful and modern language

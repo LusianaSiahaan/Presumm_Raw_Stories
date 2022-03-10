@@ -2,5 +2,4 @@ Laravel: Code Smart The Laravel Framework Version 5 for Beginners  Dayle Rees  T
 
 @highlight
 
-Code Smart is the number one book for learning the Laravel PHP framework. It is written in a simple, understandable, and entertaining style that is welcoming to all. Lets discover Laravel together.
-Laravel: Code Smart is the third installment in my Code series of books for the Laravel framework. The Code books have thousands of readers and are considered by many to be the most effective method of learning the Laravel framework. As always, my books serve as both an introduction for beginners, and reference material for more experienced developers. I promise that youre going to love it! Youll be writing Laravel applications in no time.
+Code Smart is the number one book for learning the Laravel PHP framework. It is written in a simple, understandable, and entertaining style that is welcoming to all. Lets discover Laravel together. Laravel: Code Smart is the third installment in my Code series of books for the Laravel framework. The Code books have thousands of readers and are considered by many to be the most effective method of learning the Laravel framework. As always, my books serve as both an introduction for beginners, and reference material for more experienced developers. I promise that youre going to love it! Youll be writing Laravel applications in no time

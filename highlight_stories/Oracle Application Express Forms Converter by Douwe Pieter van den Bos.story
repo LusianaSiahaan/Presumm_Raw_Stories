@@ -2,4 +2,4 @@ Oracle Application Express  Forms Converter  A migration guide using the APEX   
 
 @highlight
 
-Packed with plentiful screenshots and clear explanations, this book is a step-by-step tutorial that demonstrates a successful Oracle Forms to Oracle APEX Conversion project. This book is for Oracle Forms developers who want to migrate to Oracle APEX. The book will also be useful for Oracle APEX developers who want to convert their older Forms applications to Oracle APEX applications.
+Packed with plentiful screenshots and clear explanations, this book is a step-by-step tutorial that demonstrates a successful Oracle Forms to Oracle APEX Conversion project. This book is for Oracle Forms developers who want to migrate to Oracle APEX. The book will also be useful for Oracle APEX developers who want to convert their older Forms applications to Oracle APEX applications

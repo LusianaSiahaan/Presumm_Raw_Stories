@@ -2,5 +2,4 @@ Mobile HTML5  Estelle Weyl   Mobile HTML5 by Estelle Weyl Copyright   2014 Estel
 
 @highlight
 
-Build kickass websites and applications for all mobile (and non-mobile) platforms by adding HTML5 and CSS3 to your web development toolkit. With this hands-on book, you’ll learn how to develop web apps that not only work on iOS, Android, Blackberry, and Windows Phone, but also perform well and provide good user experience.
-With lots of code and markup examples, you’ll learn best practices for using HTML5 features, including new web forms, SVG, Canvas, localStorage, and related APIs. You’ll also get an in-depth look at CSS3, and discover how to design apps for large monitors and tiny screens alike.
+Build kickass websites and applications for all mobile (and non-mobile) platforms by adding HTML5 and CSS3 to your web development toolkit. With this hands-on book, you’ll learn how to develop web apps that not only work on iOS, Android, Blackberry, and Windows Phone, but also perform well and provide good user experience. With lots of code and markup examples, you’ll learn best practices for using HTML5 features, including new web forms, SVG, Canvas, localStorage, and related APIs. You’ll also get an in-depth look at CSS3, and discover how to design apps for large monitors and tiny screens alike

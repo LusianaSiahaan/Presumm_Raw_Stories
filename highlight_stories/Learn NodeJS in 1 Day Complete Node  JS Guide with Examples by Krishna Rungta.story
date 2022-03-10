@@ -2,13 +2,4 @@ Learn	NodeJS	in	1	Day  By	Krishna	Rungta  Copyright	2016	-	All	Rights	Reserved	�
 
 @highlight
 
-Node.js supports both client and server side applications. It is based on JavaScript and is very fast in operation. These distinctive features made node.js as one of the most powerful framework in the Java Ecosystem. JavaScript alone allows you to build real-time and scalable mobile and web applications. With this e-book, you will explore more on the node.js framework and how to use it efficiently for web development.
-
-
-
-Average developers or beginners who struggle to understand node.js basics will find this book very helpful and productive. The book tried to put examples that simplify problems usually faced by the users like how asynchronous code works, what are modules, how big file can be read, node.js express, etc. You will find that lots of concepts that take a long time to master can be learned in a day or two.
-
-
-
-If this is your first interaction with node.js and don’t want all sort of troubles that arise with the node, this edition is recommended. After going through this e-book, node.js will become an absolute pleasure.
-
+Node.js supports both client and server side applications. It is based on JavaScript and is very fast in operation. These distinctive features made node.js as one of the most powerful framework in the Java Ecosystem. JavaScript alone allows you to build real-time and scalable mobile and web applications. With this e-book, you will explore more on the node.js framework and how to use it efficiently for web development. Average developers or beginners who struggle to understand node.js basics will find this book very helpful and productive. The book tried to put examples that simplify problems usually faced by the users like how asynchronous code works, what are modules, how big file can be read, node.js express, etc. You will find that lots of concepts that take a long time to master can be learned in a day or two. If this is your first interaction with node.js and don’t want all sort of troubles that arise with the node, this edition is recommended. After going through this e-book, node.js will become an absolute pleasure

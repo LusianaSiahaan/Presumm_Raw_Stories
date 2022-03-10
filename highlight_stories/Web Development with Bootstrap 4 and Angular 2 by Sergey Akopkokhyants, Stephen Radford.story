@@ -2,10 +2,4 @@ Web Development with Bootstrap 4 and Angular 2 Second Edition               Comb
 
 @highlight
 
-Two of the most popular frontend frameworks, Angular and Bootstrap, have undergone a major overhaul to embrace emerging web technologies so that developers can build cutting-edge web applications.
-
-Inside this title you'll dive, fingers first, into the basics of both the tools, and once you're familiar with them, you'll move onto Bootstrap's new grid system and Angular's built-in directives. You'll then learn how to format output using Angular's pipes and how to make use of the built-in router to set up routes for all your components.
-
-Webpack will be your buddy to wrap up your project. Then, after throwing in some SASS to make things pretty, you'll learn how to validate the forms you've built and debug your application. Finally, you'll go on to learn how to obtain smooth transitioning from Bootstrap to Angular and then how to hook up with a server and use Firebase as the persistence layer.
-
-Once you're done with this book, you'll not only have a lovely little e-commerce application running, but you'll also take with you the confidence to innovate and build your own applications with eas
+Two of the most popular frontend frameworks, Angular and Bootstrap, have undergone a major overhaul to embrace emerging web technologies so that developers can build cutting-edge web applications. Inside this title you'll dive, fingers first, into the basics of both the tools, and once you're familiar with them, you'll move onto Bootstrap's new grid system and Angular's built-in directives. You'll then learn how to format output using Angular's pipes and how to make use of the built-in router to set up routes for all your components. Webpack will be your buddy to wrap up your project. Then, after throwing in some SASS to make things pretty, you'll learn how to validate the forms you've built and debug your application. Finally, you'll go on to learn how to obtain smooth transitioning from Bootstrap to Angular and then how to hook up with a server and use Firebase as the persistence layer. Once you're done with this book, you'll not only have a lovely little e-commerce application running, but you'll also take with you the confidence to innovate and build your own applications with ease

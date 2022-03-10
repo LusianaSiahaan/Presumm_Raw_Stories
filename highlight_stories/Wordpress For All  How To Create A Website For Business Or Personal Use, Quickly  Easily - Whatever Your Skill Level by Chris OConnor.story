@@ -2,4 +2,4 @@ WORDPRESS FOR ALL     2   How To Create A Website For Business Or Personal Use, 
 
 @highlight
 
-This up to date book (recently updated to cover Wordpress 3.6) will take you step-by-step through everything you need to know in order to quickly and easily create your own fully functional, attractive and professional looking website. What's more, you'll be able to do all of this without having to understand or write a single line of code.
+This up to date book (recently updated to cover Wordpress 3.6) will take you step-by-step through everything you need to know in order to quickly and easily create your own fully functional, attractive and professional looking website. What's more, you'll be able to do all of this without having to understand or write a single line of code

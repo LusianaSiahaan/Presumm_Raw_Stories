@@ -2,4 +2,4 @@ jQuery  Pocket Primer   LICENSE, DISCLAIMER OF LIABILITY, AND LIMITED WARRANTY B
 
 @highlight
 
-This book provides an overview of the major aspects, the source code, and tutorial videos to use jQuery. It includes material on jQuery UI Controls, jQueryMobile, HTML5 Technologies with jQuery, and more. It is primarily for self-directed learners who are comfortable with HTML/CSS/Javascript and who also want to learn jQuery. Topics include: integrated coverage of CSS3, jQuery and other important JS toolkits; jQuery Mobile and HTML5 hybrid mobile apps; BackboneJS and Twitter Bootstrap. --
+This book provides an overview of the major aspects, the source code, and tutorial videos to use jQuery. It includes material on jQuery UI Controls, jQueryMobile, HTML5 Technologies with jQuery, and more. It is primarily for self-directed learners who are comfortable with HTML/CSS/Javascript and who also want to learn jQuery. Topics include: integrated coverage of CSS3, jQuery and other important JS toolkits; jQuery Mobile and HTML5 hybrid mobile apps; BackboneJS and Twitter Bootstrap

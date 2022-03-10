@@ -2,6 +2,4 @@ Web Hacking 101 How to Make Money Hacking Ethically  Peter Yaworski  This book i
 
 @highlight
 
-With a Foreword written by HackerOne Co-Founders Michiel Prins and Jobert Abma, Web Hacking 101 is about the ethical exploration of software for security issues but learning to hack isn't always easy. With few exceptions, existing books are overly technical, only dedicate a single chapter to website vulnerabilities or don't include any real world examples. This book is different.
-
-Using publicly disclosed vulnerabilities, Web Hacking 101 explains common web vulnerabilities and will show you how to start finding vulnerabilities and collecting bounties. 
+With a Foreword written by HackerOne Co-Founders Michiel Prins and Jobert Abma, Web Hacking 101 is about the ethical exploration of software for security issues but learning to hack isn't always easy. With few exceptions, existing books are overly technical, only dedicate a single chapter to website vulnerabilities or don't include any real world examples. This book is different. Using publicly disclosed vulnerabilities, Web Hacking 101 explains common web vulnerabilities and will show you how to start finding vulnerabilities and collecting bounties

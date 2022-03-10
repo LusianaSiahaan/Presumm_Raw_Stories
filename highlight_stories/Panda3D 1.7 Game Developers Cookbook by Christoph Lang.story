@@ -2,4 +2,4 @@ Panda3D 1.7 Game  Developer's Cookbook  Over 80 recipes for developing 3D games 
 
 @highlight
 
-This is a cookbook with over 80 recipes offering solutions to common game development problems with Panda3D with explained sample code and screenshots added in. If you are a developer with experience in Python, Panda3D, and optionally C++ and shading languages and you are looking for quick and easy to integrate solutions to common game development problems with Panda3D, this book is for you.
+This is a cookbook with over 80 recipes offering solutions to common game development problems with Panda3D with explained sample code and screenshots added in. If you are a developer with experience in Python, Panda3D, and optionally C++ and shading languages and you are looking for quick and easy to integrate solutions to common game development problems with Panda3D, this book is for you

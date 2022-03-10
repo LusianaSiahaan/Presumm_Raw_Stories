@@ -2,18 +2,5 @@ Learning PHP, MySQL, & JavaScript With jQuery, CSS, & HTML5  Edition  3. 1. Intr
 
 @highlight
 
-Build interactive, data-driven websites with the potent combination of open-source technologies and web standards, even if you only have basic HTML knowledge. With this popular hands-on guide, you’ll tackle dynamic web programming with the help of today’s core technologies: PHP, MySQL, JavaScript, CSS, HTML5, and jQuery libraries of ready-made functions to significantly enhance your projects.
-
-Not only will you get up to speed on the most recent updates to these various technologies—including enhanced MySQL and PHP security features—you’ll also learn how to optimize your websites for use on mobile phones and tablets.
-
-Explore each technology separately, learn how to use them together, and pick up valuable web programming practices along the way. At the end of the book, you’ll put everything together to build a fully functional social networking site suitable for both desktop and mobile browsers, using the AMPPS or any other popular development stack. You’ll learn PHP in depth, along with the basics of object-oriented programming.
-
-Explore MySQL, from database structure to complex queries
-Use the MySQLi Extension, PHP’s improved MySQL interface
-Create dynamic PHP web pages that tailor themselves to the user
-Manage cookies and sessions, and maintain a high level of security
-Master the JavaScript language—and enhance it with the jQuery & jQuery mobile libraries
-Use Ajax calls for background browser.server communication
-Acquire CSS2 & CSS3 skills for professionally styling your web pages
-Implement powerful HTML5 features, including geolocation, audio, video, and the canvas
-Reformat your websites into mobile web apps
+Build interactive, data-driven websites with the potent combination of open-source technologies and web standards, even if you only have basic HTML knowledge. With this popular hands-on guide, you’ll tackle dynamic web programming with the help of today’s core technologies: PHP, MySQL, JavaScript, CSS, HTML5, and jQuery libraries of ready-made functions to significantly enhance your projects. Not only will you get up to speed on the most recent updates to these various technologies—including enhanced MySQL and PHP security features—you’ll also learn how to optimize your websites for use on mobile phones and tablets. Explore each technology separately, learn how to use them together, and pick up valuable web programming practices along the way. At the end of the book, you’ll put everything together to build a fully functional social networking site suitable for both desktop and mobile browsers, using the AMPPS or any other popular development stack. You’ll learn PHP in depth, along with the basics of object-oriented programming. Explore MySQL, from database structure to complex queries; Use the MySQLi Extension, PHP’s improved MySQL interface; Create dynamic PHP web pages that tailor themselves to the user
+Manage cookies and sessions, and maintain a high level of security; Master the JavaScript language—and enhance it with the jQuery & jQuery mobile libraries; Use Ajax calls for background browser.server communication; Acquire CSS2 & CSS3 skills for professionally styling your web pages; Implement powerful HTML5 features, including geolocation, audio, video, and the canvas; Reformat your websites into mobile web apps

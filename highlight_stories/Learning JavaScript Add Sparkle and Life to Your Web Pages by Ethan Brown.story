@@ -2,15 +2,4 @@
 
 @highlight
 
-This is an exciting time to learn JavaScript. Now that the latest JavaScript specification—ECMAScript 6.0 (ES6)—has been finalized, learning how to develop high-quality applications with this language is easier and more satisfying than ever. This practical book takes programmers (amateurs and pros alike) on a no-nonsense tour of ES6, along with some related tools and techniques.
-
-Author Ethan Brown (Web Development with Node and Express) not only guides you through simple and straightforward topics (variables, control flow, arrays), but also covers complex concepts such as functional and asynchronous programming. You’ll learn how to create powerful and responsive web applications on the client, or with Node.js on the server.
-
-Use ES6 today and transcompile code to portable ES5
-Translate data into a format that JavaScript can use
-Understand the basic usage and mechanics of JavaScript functions
-Explore objects and object-oriented programming
-Tackle new concepts such as iterators, generators, and proxies
-Grasp the complexities of asynchronous programming
-Work with the Document Object Model for browser-based apps
-Learn Node.js fundamentals for developing server-side applications
+This is an exciting time to learn JavaScript. Now that the latest JavaScript specification—ECMAScript 6.0 (ES6)—has been finalized, learning how to develop high-quality applications with this language is easier and more satisfying than ever. This practical book takes programmers (amateurs and pros alike) on a no-nonsense tour of ES6, along with some related tools and techniques.Author Ethan Brown (Web Development with Node and Express) not only guides you through simple and straightforward topics (variables, control flow, arrays), but also covers complex concepts such as functional and asynchronous programming. You’ll learn how to create powerful and responsive web applications on the client, or with Node.js on the server. Use ES6 today and transcompile code to portable ES5, Translate data into a format that JavaScript can use, Understand the basic usage and mechanics of JavaScript functions, Explore objects and object-oriented programming. Tackle new concepts such as iterators, generators, and proxies, Grasp the complexities of asynchronous programming. Work with the Document Object Model for browser-based apps. Learn Node.js fundamentals for developing server-side applications

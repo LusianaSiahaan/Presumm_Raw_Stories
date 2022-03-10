@@ -2,8 +2,4 @@ Pro   Ember Data  Getting Ember Data to Work with   Your API — David Tang   Pr
 
 @highlight
 
-Learn how to work with Ember Data efficiently, from APIs, adapters, and serializers to polymorphic relationships, using your existing JavaScript and Ember knowledge. This book will teach you how to adapt Ember Data to fit your custom API.
-
-Have a custom API that you aren't sure how to use with Ember Data? Interested in writing your own adapter or serializer? Want to just know more about how Ember Data works? This is the Ember Data book you have been waiting for.
-
-Lots of books and tutorials start off teaching Ember with Ember Data. This is great, especially if you are in control of your API, but what if you aren't? You do a little research and start seeing terminology like adapters, serializers, transforms, and snapshots, and quickly become overwhelmed. Maybe you've thought to yourself that Ember isn't for you. Well, if this sounds familiar, then this book is for you.
+Learn how to work with Ember Data efficiently, from APIs, adapters, and serializers to polymorphic relationships, using your existing JavaScript and Ember knowledge. This book will teach you how to adapt Ember Data to fit your custom API. Have a custom API that you aren't sure how to use with Ember Data? Interested in writing your own adapter or serializer? Want to just know more about how Ember Data works? This is the Ember Data book you have been waiting for. Lots of books and tutorials start off teaching Ember with Ember Data. This is great, especially if you are in control of your API, but what if you aren't? You do a little research and start seeing terminology like adapters, serializers, transforms, and snapshots, and quickly become overwhelmed. Maybe you've thought to yourself that Ember isn't for you. Well, if this sounds familiar, then this book is for you

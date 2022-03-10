@@ -2,6 +2,4 @@ Web Development with Node and Express by Ethan Brown Copyright   2020 Ethan Brow
 
 @highlight
 
-Build dynamic web applications with Express, a key component of the Node/JavaScript development stack. In this updated edition, author Ethan Brown teaches you Express fundamentals by walking you through the development of an example application. This hands-on guide covers everything from server-side rendering to API development suitable for usein single-page apps (SPAs).
-
-Express strikes a balance between a robust framework and no framework at all, allowing you a free hand in your architecture choices. Frontend and backend engineers familiar with JavaScript will also learn best practices for building multipage and hybrid web apps with Express. Pick up this book anddiscover new ways to look at web development.
+Build dynamic web applications with Express, a key component of the Node/JavaScript development stack. In this updated edition, author Ethan Brown teaches you Express fundamentals by walking you through the development of an example application. This hands-on guide covers everything from server-side rendering to API development suitable for usein single-page apps (SPAs). Express strikes a balance between a robust framework and no framework at all, allowing you a free hand in your architecture choices. Frontend and backend engineers familiar with JavaScript will also learn best practices for building multipage and hybrid web apps with Express. Pick up this book anddiscover new ways to look at web development

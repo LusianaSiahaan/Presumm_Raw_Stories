@@ -2,19 +2,4 @@ Learning Laravel 4 Application  Development  Develop real-world web applications
 
 @highlight
 
-Develop real-world web applications in Laravel 4 using its refi ned and expressive syntax
-
-Overview
-
-Build real-world web applications using the Laravel 4 framework
-Learn how to configure, optimize and deploy Laravel 4 applications
-Packed with illustrations along with lots of tips and tricks to help you learn more about one of the most exciting PHP frameworks around
-In Detail
-
-Laravel 4 is a clean and classy framework for PHP web development. It attempts to ease the development of web applications by simplifying the common tasks required in the majority of web projects, such as authentication, routing, sessions, and caching.
-
-"Learning Laravel 4 Application Development" uses a step-by-step approach to teach you how to build real-world web applications. You will learn how to create a web application from scratch as well as how to create and use packages to build reusable components to be used in your projects.
-
-This book begins by familiarizing you with MVC concepts as well as the Laravel 4 framework. From there, it moves on to the creation of the frontend and backend of your web application. As you progress through the book, you will learn how you can authenticate users as well as develop RESTful APIs. You will also learn how to configure, optimize, and secure your applications. Lastly, it teaches you how to deploy your applications using different approaches like Git, FTP, and SSH.
-
-Laravel 4 Application Development will teach you everything you need to know to create accessible real-world web applications quickly and efficiently.
+Laravel 4 is a clean and classy framework for PHP web development. It attempts to ease the development of web applications by simplifying the common tasks required in the majority of web projects, such as authentication, routing, sessions, and caching. "Learning Laravel 4 Application Development" uses a step-by-step approach to teach you how to build real-world web applications. You will learn how to create a web application from scratch as well as how to create and use packages to build reusable components to be used in your projects. This book begins by familiarizing you with MVC concepts as well as the Laravel 4 framework. From there, it moves on to the creation of the frontend and backend of your web application. As you progress through the book, you will learn how you can authenticate users as well as develop RESTful APIs. You will also learn how to configure, optimize, and secure your applications. Lastly, it teaches you how to deploy your applications using different approaches like Git, FTP, and SSH. Laravel 4 Application Development will teach you everything you need to know to create accessible real-world web applications quickly and efficiently

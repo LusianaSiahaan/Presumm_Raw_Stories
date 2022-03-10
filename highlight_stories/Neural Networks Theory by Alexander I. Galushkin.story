@@ -2,4 +2,4 @@ Alexander I. Galushkin Neural Networks Theory   Alexander I. Galushkin  Neural N
 
 @highlight
 
-This book, written by a leader in neural network theory in Russia, uses mathematical methods in combination with complexity theory, nonlinear dynamics and optimization. It details more than 40 years of Soviet and Russian neural network research and presents a systematized methodology of neural networks synthesis. The theory is expansive: covering not just traditional topics such as network architecture but also neural continua in function spaces as well.
+This book, written by a leader in neural network theory in Russia, uses mathematical methods in combination with complexity theory, nonlinear dynamics and optimization. It details more than 40 years of Soviet and Russian neural network research and presents a systematized methodology of neural networks synthesis. The theory is expansive: covering not just traditional topics such as network architecture but also neural continua in function spaces as well

@@ -2,10 +2,4 @@
 
 @highlight
 
-Master the flashiest functionalities Laravel has to offer
-Use PHPSpec to design testable software by specification to ensure quality code
-Explore the best-practices and latest features of Laravel 5
-Who This Book Is For
-If you are an experienced or a capable PHP programmer who has a basic understanding of the concepts of modern PHP (at least version 5.4), this book is ideal for you.
-
-Basic object-oriented programming and database knowledge is expected. You should already know your way around Laravel, or have at least experimented with the framework.
+Master the flashiest functionalities Laravel has to offer. Use PHPSpec to design testable software by specification to ensure quality code. Explore the best-practices and latest features of Laravel 5. Basic object-oriented programming and database knowledge is expected. You should already know your way around Laravel, or have at least experimented with the framework

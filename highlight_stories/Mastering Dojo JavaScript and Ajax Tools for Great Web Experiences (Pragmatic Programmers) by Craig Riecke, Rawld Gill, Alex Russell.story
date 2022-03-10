@@ -2,4 +2,4 @@ Mastering Dojo JavaScript and Ajax Tools for Great Web Experiences  Rawld Gill  
 
 @highlight
 
-I find that the book contains mostly beginner and intermediate information. Not enough advanced topics or talking about creation the programmatic way. The layout of the book is a bit odd (Drag and Drop is only talked about for a few pages within the context of working with the Tree widget). For more advanced developers looking for more of a reference book, consider looking elsewhere.
+I find that the book contains mostly beginner and intermediate information. Not enough advanced topics or talking about creation the programmatic way. The layout of the book is a bit odd (Drag and Drop is only talked about for a few pages within the context of working with the Tree widget). For more advanced developers looking for more of a reference book, consider looking elsewhere

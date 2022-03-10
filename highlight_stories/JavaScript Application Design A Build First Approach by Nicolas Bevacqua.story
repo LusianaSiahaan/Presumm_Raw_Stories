@@ -2,6 +2,4 @@ A Build First Approach  Nicolas Bevacqua FOREWORD BY Addy Osmani  M A N N I N G 
 
 @highlight
 
-JavaScript Application Design: A Build First Approach introduces JavaScript developers to techniques that will improve the quality of their software as well as their web development workflow. You'll begin by learning how to establish build processes that are appropriate for JavaScript-driven development. Then, you'll walk through best practices for productive day-to-day development, like running tasks when your code changes, deploying applications with a single command, and monitoring the state of your application once it's in production.
-
-Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.
+JavaScript Application Design: A Build First Approach introduces JavaScript developers to techniques that will improve the quality of their software as well as their web development workflow. You'll begin by learning how to establish build processes that are appropriate for JavaScript-driven development. Then, you'll walk through best practices for productive day-to-day development, like running tasks when your code changes, deploying applications with a single command, and monitoring the state of your application once it's in production

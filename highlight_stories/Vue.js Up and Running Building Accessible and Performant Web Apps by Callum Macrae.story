@@ -2,6 +2,4 @@ Vue.js:	Up	and	Running  Building	Accessible	and	Performant	Web	Apps  Callum	Macr
 
 @highlight
 
-Get a brisk introduction to building fast, interactive single-page web applications with Vue.js, the popular JavaScript framework that organizes and simplifies web development. With this practical guide, you’ll quickly move from basics to custom components and advanced features—including JSX, the JavaScript syntax extension.
-
-Author Callum Macrae shows you how to use the most useful libraries in the Vue ecosystem, such as vue-router for routing, vuex for state management, and vue-test-utils for testing. If you’re a frontend developer familiar with JavaScript, HTML, and CSS, this book will show you how to develop a fully featured web application using Vue.
+Get a brisk introduction to building fast, interactive single-page web applications with Vue.js, the popular JavaScript framework that organizes and simplifies web development. With this practical guide, you’ll quickly move from basics to custom components and advanced features—including JSX, the JavaScript syntax extension. Author Callum Macrae shows you how to use the most useful libraries in the Vue ecosystem, such as vue-router for routing, vuex for state management, and vue-test-utils for testing. If you’re a frontend developer familiar with JavaScript, HTML, and CSS, this book will show you how to develop a fully featured web application using Vue

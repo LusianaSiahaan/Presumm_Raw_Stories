@@ -2,4 +2,4 @@ Dmitry Jemerov Svetlana Isakova FOREWORD BY Andrey Breslav  M A N N I N G   Kotl
 
 @highlight
 
-Kotlin in Action guides experienced Java developers from the language basics of Kotlin all the way through building applications to run on the JVM and Android devices.
+Kotlin in Action guides experienced Java developers from the language basics of Kotlin all the way through building applications to run on the JVM and Android devices

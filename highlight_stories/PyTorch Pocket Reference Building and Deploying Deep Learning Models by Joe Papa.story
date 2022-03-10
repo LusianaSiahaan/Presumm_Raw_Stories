@@ -2,6 +2,4 @@ PyTorch Pocket   Reference Building and Deploying   Deep Learning Models  Joe Pa
 
 @highlight
 
-This concise, easy-to-use reference puts one of the most popular frameworks for deep learning research and development at your fingertips. Author Joe Papa provides instant access to syntax, design patterns, and code examples to accelerate your development and reduce the time you spend searching for answers.
-
-Research scientists, machine learning engineers, and software developers will find clear, structured PyTorch code that covers every step of neural network development-from loading data to customizing training loops to model optimization and GPU/TPU acceleration. Quickly learn how to deploy your code to production using AWS, Google Cloud, or Azure and deploy your ML models to mobile and edge devices.
+This concise, easy-to-use reference puts one of the most popular frameworks for deep learning research and development at your fingertips. Author Joe Papa provides instant access to syntax, design patterns, and code examples to accelerate your development and reduce the time you spend searching for answers. Research scientists, machine learning engineers, and software developers will find clear, structured PyTorch code that covers every step of neural network development-from loading data to customizing training loops to model optimization and GPU/TPU acceleration. Quickly learn how to deploy your code to production using AWS, Google Cloud, or Azure and deploy your ML models to mobile and edge devices

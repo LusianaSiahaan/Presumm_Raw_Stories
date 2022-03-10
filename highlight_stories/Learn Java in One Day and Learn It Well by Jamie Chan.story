@@ -2,36 +2,7 @@ Learn Java In One Day and Learn It Well Java for Beginners with Hands-On Project
 
 @highlight
 
-Have you always wanted to learn computer programming but are afraid it'll be too difficult for you? Or perhaps you know other programming languages but are interested in learning the Java language fast?
-
-This book is for you. You no longer have to waste your time and money trying to learn Java from boring books that are 600 pages long, expensive online courses or complicated Java tutorials that just leave you more confused and frustrated.
-
-What this book offers...
-
-Java for Beginners
-Complex concepts are broken down into simple steps to ensure that you can easily master the Java language even if you have never coded before.
-
-Carefully Chosen Java Examples
-Examples are carefully chosen to illustrate all concepts. In addition, the output for all examples are provided immediately so you do not have to wait till you have access to your computer to test the examples.
-
-Careful selection of topics (Covers Java 8)
-Topics are carefully selected to give you a broad exposure to Java, while not overwhelming you with information overload. These topics include object-oriented programming concepts, error handling techniques, file handling techniques and more. In addition, new features in Java (such as lambda expressions and default methods etc) are also covered so that you are always up to date with the latest advancement in the Java language.
-
-Learn The Java Programming Language Fast
-Concepts are presented in a "to-the-point" style to cater to the busy individual. You no longer have to endure boring and lengthy Java textbooks that simply puts you to sleep. With this book, you can learn Java fast and start coding immediately.
-
-How is this book different...
-
-The best way to learn Java is by doing. This book includes a unique project at the end of the book that requires the application of all the concepts taught previously. Working through the project will not only give you an immense sense of achievement, it’ll also help you retain the knowledge and master the language.
-
-Are you ready to dip your toes into the exciting world of Java coding? This book is for you. Click the "Add to Cart" button and download it now.
-
-What you'll learn:
-
-Introduction to Java - What is Java? - What software do you need to code Java programs? - How to install and run JDK and Netbeans?
-Data types and Operators - What are the eight primitive types in Java? - What are arrays and lists? - How to format Java strings - What is a primitive type vs reference type? - What are the common Java operators?
-Object Oriented Programming - What is object oriented programming? - How to write your own classes - What are fields, methods and constructors? - What is encapsulation, inheritance and polymorphism? - What is an abstract class and interface?
-Controlling the Flow of a Program - What are condition statements? - How to use control flow statements in Java - How to handle errors and exceptions - How to throw your own exception
-and Others... - How to accept user inputs and display outputs - What is a generic? - What are lambda expressions and functional interface? - How to work with external files ...and so much more....
+Java for Beginners: Complex concepts are broken down into simple steps to ensure that you can easily master the Java language even if you have never coded before. Carefully Chosen Java Examples: Examples are carefully chosen to illustrate all concepts. In addition, the output for all examples are provided immediately so you do not have to wait till you have access to your computer to test the examples. Careful selection of topics (Covers Java 8)
+Topics are carefully selected to give you a broad exposure to Java, while not overwhelming you with information overload. These topics include object-oriented programming concepts, error handling techniques, file handling techniques and more. In addition, new features in Java (such as lambda expressions and default methods etc) are also covered so that you are always up to date with the latest advancement in the Java language. Learn The Java Programming Language Fast. Concepts are presented in a "to-the-point" style to cater to the busy individual. You no longer have to endure boring and lengthy Java textbooks that simply puts you to sleep. With this book, you can learn Java fast and start coding immediately. The best way to learn Java is by doing. This book includes a unique project at the end of the book that requires the application of all the concepts taught previously. Working through the project will not only give you an immense sense of achievement, it’ll also help you retain the knowledge and master the language. What you'll learn: Introduction to Java - What is Java? - What software do you need to code Java programs? - How to install and run JDK and Netbeans? Data types and Operators - What are the eight primitive types in Java? - What are arrays and lists? - How to format Java strings - What is a primitive type vs reference type? - What are the common Java operators? Object Oriented Programming - What is object oriented programming? - How to write your own classes - What are fields, methods and constructors? - What is encapsulation, inheritance and polymorphism? - What is an abstract class and interface? Controlling the Flow of a Program - What are condition statements? - How to use control flow statements in Java - How to handle errors and exceptions - How to throw your own exception and Others... - How to accept user inputs and display outputs - What is a generic? - What are lambda expressions and functional interface? - How to work with external files and so much more
 
 Finally, you'll be guided through a hands-on project that requires the application of all the topics covered

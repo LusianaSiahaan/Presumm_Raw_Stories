@@ -2,4 +2,4 @@ OpenGL Game Development  Chris Seddon  Wordware Publishing, Inc.   Library of Co
 
 @highlight
 
-The Open Graphics Library (OpenGL) is the industry standard for high-performance 3D graphics and is widely used to create leading-edge software. OpenGL Game Development shows the beginning computer programmer how to harness the power of OpenGL to create a fully functional map editor and game engine. The book explores the basics of OpenGL and Windows programming, while focusing on the ultimate goal of developing a 3D first-person shooter.
+The Open Graphics Library (OpenGL) is the industry standard for high-performance 3D graphics and is widely used to create leading-edge software. OpenGL Game Development shows the beginning computer programmer how to harness the power of OpenGL to create a fully functional map editor and game engine. The book explores the basics of OpenGL and Windows programming, while focusing on the ultimate goal of developing a 3D first-person shooter

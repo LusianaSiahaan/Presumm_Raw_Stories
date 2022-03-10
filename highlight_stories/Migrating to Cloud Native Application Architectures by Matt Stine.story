@@ -2,13 +2,4 @@ C  o  m  plim  e  nts of  Migrating to   Cloud-Native   Application   Architectu
 
 @highlight
 
-Adoption of cloud-native application architectures is helping many organizations transform their IT into a force for true agility in the marketplace. This O’Reilly report defines the unique characteristics of cloud-native application architectures such as microservices and twelve-factor applications.
-
-Author Matt Stine also examines the cultural, organizational, and technical changes necessary to migrate traditional monolithic applications and service-oriented architectures to cloud-native architectures. You’ll also find a Migration Cookbook, with recipes for decomposing monolithic applications into microservices, implementing fault-tolerant patterns, and performing automated testing of cloud-native services.
-
-This report discusses application architectures that include:
-• The Twelve-Factor App: a collection of cloud-native app architecture patterns
-• Microservices: independently deployable services that do one thing well
-• Self-Service Agile Infrastructure: platforms for rapid, repeatable, and consistent provisioning of app environments and backing services
-• API-based Collaboration: published and versioned APIs that allow interaction between services in a cloud-native app architecture
-• Anti-Fragility: systems that get stronger when subjected to stress
+Adoption of cloud-native application architectures is helping many organizations transform their IT into a force for true agility in the marketplace. This O’Reilly report defines the unique characteristics of cloud-native application architectures such as microservices and twelve-factor applications. Author Matt Stine also examines the cultural, organizational, and technical changes necessary to migrate traditional monolithic applications and service-oriented architectures to cloud-native architectures. You’ll also find a Migration Cookbook, with recipes for decomposing monolithic applications into microservices, implementing fault-tolerant patterns, and performing automated testing of cloud-native services. This report discusses application architectures that include: The Twelve-Factor App: a collection of cloud-native app architecture patterns; Microservices: independently deployable services that do one thing well; Self-Service Agile Infrastructure: platforms for rapid, repeatable, and consistent provisioning of app environments and backing services; API-based Collaboration: published and versioned APIs that allow interaction between services in a cloud-native app architecture; Anti-Fragility: systems that get stronger when subjected to stress

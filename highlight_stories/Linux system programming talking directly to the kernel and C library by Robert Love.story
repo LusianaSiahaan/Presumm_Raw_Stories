@@ -2,6 +2,4 @@ Linux System Programming  SECOND EDITION  Robert Love   Linux System Programming
 
 @highlight
 
-Write software that draws directly on services offered by the Linux kernel and core system libraries. With this comprehensive book, Linux kernel contributor Robert Love provides you with a tutorial on Linux system programming, a reference manual on Linux system calls, and an insider’s guide to writing smarter, faster code.
-
-Love clearly distinguishes between POSIX standard functions and special services offered only by Linux. With a new chapter on multithreading, this updated and expanded edition provides an in-depth look at Linux from both a theoretical and applied perspective over a wide range of programming topics, including:
+Write software that draws directly on services offered by the Linux kernel and core system libraries. With this comprehensive book, Linux kernel contributor Robert Love provides you with a tutorial on Linux system programming, a reference manual on Linux system calls, and an insider’s guide to writing smarter, faster code. Love clearly distinguishes between POSIX standard functions and special services offered only by Linux. With a new chapter on multithreading, this updated and expanded edition provides an in-depth look at Linux from both a theoretical and applied perspective over a wide range of programming topics

@@ -2,6 +2,4 @@ Values, Units, and Colors  Eric A. Meyer  Beijing   Cambridge   Farnham   Köln 
 
 @highlight
 
-Nearly everything you do with CSS involves units for determining the look and formatting of your web page elements. With this concise guide, you’ll learn how to work with an array of units—including measurements and keywords—that help you define color, text, distance between elements, location of external files, and other values.
-
-This book contains chapters from the upcoming fourth edition of CSS: The Definitive Guide. When you purchase either the print or the ebook edition of Values, Units, and Colors, you’ll receive a significant discount on the entire Definitive Guide when it’s released. 
+Nearly everything you do with CSS involves units for determining the look and formatting of your web page elements. With this concise guide, you’ll learn how to work with an array of units—including measurements and keywords—that help you define color, text, distance between elements, location of external files, and other values. This book contains chapters from the upcoming fourth edition of CSS: The Definitive Guide. When you purchase either the print or the ebook edition of Values, Units, and Colors, you’ll receive a significant discount on the entire Definitive Guide when it’s released

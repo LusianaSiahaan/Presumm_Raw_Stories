@@ -2,4 +2,4 @@ Java Programming with Oracle JDBC  Donald Bales   Publisher: O'Reilly   First Ed
 
 @highlight
 
-JDBC is the key Java technology for relational database access. Oracle is arguably the most widely used relational database platform in the world. In this book, Donald Bales brings these two technologies together, and shows you how to leverage the full power of Oracle's implementation of JDBC.
+JDBC is the key Java technology for relational database access. Oracle is arguably the most widely used relational database platform in the world. In this book, Donald Bales brings these two technologies together, and shows you how to leverage the full power of Oracle's implementation of JDBC

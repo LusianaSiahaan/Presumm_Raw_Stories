@@ -2,11 +2,5 @@ Alex Young Marc Harter FOREWORD BY  Ben Noordhuis  INCLUDES 115  TECHNIQUES  M A
 
 @highlight
 
-You've decided to use Node.js for your next project and you need the skills to implement Node in production. It would be great to have Node experts Alex Young and Marc Harter at your side to help you tackle those day-to-day challenges. With this book, you can!
-
-Node.js in Practice is a collection of 115 thoroughly tested examples and instantly useful techniques guaranteed to make any Node application go more smoothly. Following a common-sense Problem/Solution format, these experience-fueled techniques cover important topics like event-based programming, streams, integrating external applications, and deployment. The abundantly annotated code makes the examples easy to follow, and techniques are organized into logical clusters, so it's a snap to find what you're looking for.
-what's inside
-• Common usage examples, from basic to advanced
-• Designing and writing modules
-• Testing and debugging Node apps
-• Integrating Node into existing systems
+You've decided to use Node.js for your next project and you need the skills to implement Node in production. It would be great to have Node experts Alex Young and Marc Harter at your side to help you tackle those day-to-day challenges. With this book, you can! Node.js in Practice is a collection of 115 thoroughly tested examples and instantly useful techniques guaranteed to make any Node application go more smoothly. Following a common-sense Problem/Solution format, these experience-fueled techniques cover important topics like event-based programming, streams, integrating external applications, and deployment. The abundantly annotated code makes the examples easy to follow, and techniques are organized into logical clusters, so it's a snap to find what you're looking for.
+what's inside: Common usage examples, from basic to advanced; Designing and writing modules; Testing and debugging Node apps; Integrating Node into existing systems

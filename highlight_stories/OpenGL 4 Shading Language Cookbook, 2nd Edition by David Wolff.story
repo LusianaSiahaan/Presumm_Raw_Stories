@@ -2,4 +2,4 @@ OpenGL 4 Shading  Language Cookbook  Second Edition  Over 70 recipes demonstrati
 
 @highlight
 
-OpenGL Shading Language (GLSL) is a programming language used for customizing parts of the OpenGL graphics pipeline that were formerly fixed-function, and are executed directly on the GPU. It provides programmers with unprecedented flexibility for implementing effects and optimizations utilizing the power of modern GPUs. With Version 4, the language has been further refined to provide programmers with greater power and flexibility, with new stages such as tessellation and compute.
+OpenGL Shading Language (GLSL) is a programming language used for customizing parts of the OpenGL graphics pipeline that were formerly fixed-function, and are executed directly on the GPU. It provides programmers with unprecedented flexibility for implementing effects and optimizations utilizing the power of modern GPUs. With Version 4, the language has been further refined to provide programmers with greater power and flexibility, with new stages such as tessellation and compute

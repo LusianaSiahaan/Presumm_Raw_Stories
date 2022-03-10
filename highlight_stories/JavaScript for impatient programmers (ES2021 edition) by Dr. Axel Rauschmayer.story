@@ -2,12 +2,4 @@ cid:43  cid:66  cid:87  cid:66  cid:52  cid:68  cid:83  cid:74  cid:81  cid:85  
 
 @highlight
 
-This book makes JavaScript less challenging to learn for newcomers, by offering a modern view that is as consistent as possible.
-
-Highlights:
-
-Get started quickly, by initially focusing on modern features.
-Test-driven exercises and quizzes available for most chapters (sold separately).
-Covers all essential features of JavaScript, up to and including ES2019.
-Optional advanced sections let you dig deeper.
-No prior knowledge of JavaScript is required, but you should know how to program.
+Get started quickly, by initially focusing on modern features. Test-driven exercises and quizzes available for most chapters (sold separately). Covers all essential features of JavaScript, up to and including ES2019. Optional advanced sections let you dig deeper. No prior knowledge of JavaScript is required, but you should know how to program

@@ -2,6 +2,4 @@ Kotlin Apprentice  Kotlin Appren,ce By Irina Galata, Joe Howard & Ellen Shapiro 
 
 @highlight
 
-Kotlin is the exciting modern language from JetBrains, creators of IntelliJ IDEA, the basis of many popular IDEs such as Android Studio and PyCharm. Since the adoption of Kotlin by Google as an official language for Android, the momentum behind Kotlin has gone off the charts.
-
-Kotlin supports many platforms, including Android, the web, the back-end, and even iOS. By reading this book, you'll be ready to use Kotlin on any and all of these platforms.
+Kotlin is the exciting modern language from JetBrains, creators of IntelliJ IDEA, the basis of many popular IDEs such as Android Studio and PyCharm. Since the adoption of Kotlin by Google as an official language for Android, the momentum behind Kotlin has gone off the charts. Kotlin supports many platforms, including Android, the web, the back-end, and even iOS. By reading this book, you'll be ready to use Kotlin on any and all of these platforms

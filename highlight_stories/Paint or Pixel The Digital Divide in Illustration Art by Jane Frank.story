@@ -2,4 +2,4 @@ P a i n t  THE DIGITAL DIVIDE IN ILLUSTRATION ART  Paint or Pixel    JOHN BERKEY
 
 @highlight
 
-This collection of art and essays, by the best of today’s science fiction and fantasy artists—including Joe Devito, John Howe, Janny Wurts, Frank Wu, and others—presents candid opinions behind the revolution now taking place in the field. Are computers creating a seismic shift in the creation of sf&f art, or are they just another tool in the artist’s paint box?
+This collection of art and essays, by the best of today’s science fiction and fantasy artists—including Joe Devito, John Howe, Janny Wurts, Frank Wu, and others—presents candid opinions behind the revolution now taking place in the field. Are computers creating a seismic shift in the creation of sf&f art, or are they just another tool in the artist’s paint box

@@ -2,14 +2,4 @@ Mastering	Go	Web	Services   Table	of	Contents  Support	files,	eBooks,	discount	o
 
 @highlight
 
-If there's one thing that's said more than anything else about the Go language, it's that "Go is a server language."
-
-Certainly, Go was built to be an ideal server language, designed as a nextgeneration iteration over the expanses and/or over-engineering of C, C++, and Java.
-
-The language has evolved—largely with fervent community support—to go far beyond servers into system tools, graphics, and even compilers for new languages. At its heart, however, Go is made for powerful, concurrent, and easyto-deploy cross-platform servers. This is what makes the language ideal for this book's topic.
-
-Mastering Web Services in Go is intended to be a guide to building robust web services and APIs that can scale for production, with emphasis on security, scalability, and adherence to RESTful principles.
-
-In this book, we'll build a rudimentary API for a social network, which will allow us to demonstrate and dive deeper into some fundamental concepts, such as connecting Go to other services and keeping your server secure and highly available.
-
-By the end of this book, you should be experienced with all the relevant instances to build a robust, scalable, secure, and production-ready web service.
+The language has evolved—largely with fervent community support—to go far beyond servers into system tools, graphics, and even compilers for new languages. At its heart, however, Go is made for powerful, concurrent, and easyto-deploy cross-platform servers. This is what makes the language ideal for this book's topic. Mastering Web Services in Go is intended to be a guide to building robust web services and APIs that can scale for production, with emphasis on security, scalability, and adherence to RESTful principles. In this book, we'll build a rudimentary API for a social network, which will allow us to demonstrate and dive deeper into some fundamental concepts, such as connecting Go to other services and keeping your server secure and highly available. By the end of this book, you should be experienced with all the relevant instances to build a robust, scalable, secure, and production-ready web service

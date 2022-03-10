@@ -2,13 +2,4 @@ i.  Learning React: Second Edition Changes  1.  Preface  a.  Conventions Used in
 
 @highlight
 
-If you want to learn how to build efficient React applications, this is your book. Ideal for web developers and software engineers who understand how JavaScript, CSS, and HTML work in the browser, this updated edition provides best practices and patterns for writing modern React code. No prior knowledge of React or functional JavaScript is necessary.
-With their learning road map, authors Alex Banks and Eve Porcello show you how to create UIs that can deftly display changes without page reloads on large-scale, data-driven websites. You’ll also discover how to work with functional programming and the latest ECMAScript features. Once you learn how to build React components with this hands-on guide, you’ll understand just how useful React can be in your organization.
-
-• Understand key functional programming concepts with JavaScript
-• Look under the hood to learn how React runs in the browser
-• Create application presentation layers with React components
-• Manage data and reduce the time you spend debugging applications
-• Incorporate React Hooks to manage state and fetch data
-• Use a routing solution for single-page application features
-• Learn how to structure React applications with servers in mind
+If you want to learn how to build efficient React applications, this is your book. Ideal for web developers and software engineers who understand how JavaScript, CSS, and HTML work in the browser, this updated edition provides best practices and patterns for writing modern React code. No prior knowledge of React or functional JavaScript is necessary. With their learning road map, authors Alex Banks and Eve Porcello show you how to create UIs that can deftly display changes without page reloads on large-scale, data-driven websites. You’ll also discover how to work with functional programming and the latest ECMAScript features. Once you learn how to build React components with this hands-on guide, you’ll understand just how useful React can be in your organization. Understand key functional programming concepts with JavaScript. Look under the hood to learn how React runs in the browser. Create application presentation layers with React components. Manage data and reduce the time you spend debugging applications. Incorporate React Hooks to manage state and fetch data. Use a routing solution for single-page application features. 

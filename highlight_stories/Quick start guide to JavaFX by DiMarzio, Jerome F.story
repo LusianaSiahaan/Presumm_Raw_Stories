@@ -2,4 +2,4 @@ BeginNew   Quick Start Guide to JavaFX™   Jerry DiMarzio   896-5   Front matte
 
 @highlight
 
-Develop and deploy interactive client applications in no time with help from this practical tutorial from Oracle Press. With a focus on working in NetBeans IDE, Quick Start Guide to JavaFX explains how to use JavaFX layouts, draw shapes, use coloring and gradient tools, load images, apply effects and transformations, include animation, and embed media. You'll also get details on using JavaFX events, subclassing existing nodes, creating custom nodes, working with WebView, and styling your applications with CSS.
+Develop and deploy interactive client applications in no time with help from this practical tutorial from Oracle Press. With a focus on working in NetBeans IDE, Quick Start Guide to JavaFX explains how to use JavaFX layouts, draw shapes, use coloring and gradient tools, load images, apply effects and transformations, include animation, and embed media. You'll also get details on using JavaFX events, subclassing existing nodes, creating custom nodes, working with WebView, and styling your applications with CSS

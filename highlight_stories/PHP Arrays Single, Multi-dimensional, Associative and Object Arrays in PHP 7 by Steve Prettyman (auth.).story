@@ -2,8 +2,4 @@ PHP   Arrays  Single, Multi-dimensional, Associative and  Object Arrays in PHP 7
 
 @highlight
 
-Gain an in-depth understanding of PHP 7 arrays. After a quick overview of PHP 7, each chapter concentrates on single, multi-dimensional, associative, and object arrays. PHP Arrays is a first of its kind book using PHP 7 that demonstrates inserting, appending, updating, and deleting array data.
-
-This book also covers validation methods to insure that the data provided by a user is good before the data is entered into an array. You’ll see how PHP 7 try/catch modules are used to capture exceptions and errors that may be caused by invalid data.
-
-The code examples demonstrate common real-world scenarios. Moreover, examples of every PHP 7 array function (over 75) are demonstrated. The appendix provides a two-dimensional array case study on the logical design of a checkers game.
+Gain an in-depth understanding of PHP 7 arrays. After a quick overview of PHP 7, each chapter concentrates on single, multi-dimensional, associative, and object arrays. PHP Arrays is a first of its kind book using PHP 7 that demonstrates inserting, appending, updating, and deleting array data. This book also covers validation methods to insure that the data provided by a user is good before the data is entered into an array. You’ll see how PHP 7 try/catch modules are used to capture exceptions and errors that may be caused by invalid data. The code examples demonstrate common real-world scenarios. Moreover, examples of every PHP 7 array function (over 75) are demonstrated. The appendix provides a two-dimensional array case study on the logical design of a checkers game

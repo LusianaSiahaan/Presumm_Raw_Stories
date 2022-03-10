@@ -2,6 +2,4 @@ L o g i Q L    LogiQL  A Query Language  for Smart Databases   EMERGING DIRECTIO
 
 @highlight
 
-''This book introduces readers to programming in LogiQL which is a subset of Prolog, a general purpose logic programming language associated with AI and computational linguistics. The book shows how LogiQL deals with large data sets while avoiding low-level implementation details found in other relational database languages. It also explores the application of LogiQL programming in data warehousing, data mining, data quality, business rules, and more''-- Read more...
-
-Abstract: ''This book introduces readers to programming in LogiQL which is a subset of Prolog, a general purpose logic programming language associated with AI and computational linguistics. The book shows how LogiQL deals with large data sets while avoiding low-level implementation details found in other relational database languages. It also explores the application of LogiQL programming in data warehousing, data mining, data quality, business rules, and more''
+This book introduces readers to programming in LogiQL which is a subset of Prolog, a general purpose logic programming language associated with AI and computational linguistics. The book shows how LogiQL deals with large data sets while avoiding low-level implementation details found in other relational database languages. It also explores the application of LogiQL programming in data warehousing, data mining, data quality, business rules, and more

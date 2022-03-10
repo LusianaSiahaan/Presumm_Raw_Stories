@@ -2,4 +2,4 @@ PHPEclipse: A User Guide                         Shu-Wai Chow                   
 
 @highlight
 
-PHPEclipse brings PHP functionality to the Eclipse platform, enhancing it as an environment for developing web applications and focusing on what PHP web developers need to create an application. PHPEclipse's development is active and its tool-set provides everything you need to write web applications in PHP. This book is written for PHP developers who want an open source development environment for creating web applications. You do not need any knowledge of Java or prior experience of Eclipse to use this book.
+PHPEclipse brings PHP functionality to the Eclipse platform, enhancing it as an environment for developing web applications and focusing on what PHP web developers need to create an application. PHPEclipse's development is active and its tool-set provides everything you need to write web applications in PHP. This book is written for PHP developers who want an open source development environment for creating web applications. You do not need any knowledge of Java or prior experience of Eclipse to use this book

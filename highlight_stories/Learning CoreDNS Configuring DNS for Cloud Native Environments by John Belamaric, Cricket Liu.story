@@ -2,15 +2,4 @@ Learning  CoreDNS  Configuring DNS for Cloud Native  Environments  John Belamari
 
 @highlight
 
-Until recently, learning CoreDNS required reading the code or combing through the skimpy documentation on the website. No longer. With this practical book, developers and operators working with Docker or Linux containers will learn how to use this standard DNS server with Kubernetes.
-
-John Belamaric, senior staff software engineer at Google, and Cricket Liu, chief DNS architect at Infoblox, show you how to configure CoreDNS using real-world configuration examples to achieve specific purposes. You’ll learn the basics of DNS, including how it functions as a location broker in container environments and how it ties into Kubernetes.
-
-• Dive into DNS theory: the DNS namespace, domain names, domains, and zones
-• Learn how to configure your CoreDNS server
-• Manage and serve basic and advanced zone data with CoreDNS
-• Configure CoreDNS service discovery with etcd and Kubernetes
-• Learn one of the most common use cases for CoreDNS: the integration with Kubernetes
-• Manipulate queries and responses as they flow through the plug-in chain
-• Monitor and troubleshoot the availability and performance of your DNS service
-• Build custom versions of CoreDNS and write your own plug-ins
+Until recently, learning CoreDNS required reading the code or combing through the skimpy documentation on the website. No longer. With this practical book, developers and operators working with Docker or Linux containers will learn how to use this standard DNS server with Kubernetes. John Belamaric, senior staff software engineer at Google, and Cricket Liu, chief DNS architect at Infoblox, show you how to configure CoreDNS using real-world configuration examples to achieve specific purposes. You’ll learn the basics of DNS, including how it functions as a location broker in container environments and how it ties into Kubernetes.Dive into DNS theory: the DNS namespace, domain names, domains, and zones, Learn how to configure your CoreDNS server, Manage and serve basic and advanced zone data with CoreDNS, Configure CoreDNS service discovery with etcd and Kubernetes, Learn one of the most common use cases for CoreDNS: the integration with Kubernetes, Manipulate queries and responses as they flow through the plug-in chain, Monitor and troubleshoot the availability and performance of your DNS service, Build custom versions of CoreDNS and write your own plug-ins

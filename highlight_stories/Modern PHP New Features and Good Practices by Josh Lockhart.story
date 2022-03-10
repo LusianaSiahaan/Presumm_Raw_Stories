@@ -3,11 +3,4 @@ www.it-ebooks.info   Modern	PHP New	Features	and	Good	Practices Josh	Lockhart  w
 @highlight
 
 PHP is experiencing a renaissance, though it may be difficult to tell with all of the outdated PHP tutorials online. With this practical guide, you’ll learn how PHP has become a full-featured, mature language with object-orientation, namespaces, and a growing collection of reusable component libraries.
-Author Josh Lockhart—creator of PHP The Right Way, a popular initiative to encourage PHP best practices—reveals these new language features in action. You’ll learn best practices for application architecture and planning, databases, security, testing, debugging, and deployment. If you have a basic understanding of PHP and want to bolster your skills, this is your book.
-
-• Learn modern PHP features, such as namespaces, traits, generators, and closures
-• Discover how to find, use, and create PHP components
-• Follow best practices for application security, working with databases, errors and exceptions, and more
-• Learn tools and techniques for deploying, tuning, testing, and profiling your PHP applications
-• Explore Facebook’s HVVM and Hack language implementations—and how they affect modern PHP
-• Build a local development environment that closely matches your production server
+Author Josh Lockhart—creator of PHP The Right Way, a popular initiative to encourage PHP best practices—reveals these new language features in action. You’ll learn best practices for application architecture and planning, databases, security, testing, debugging, and deployment. If you have a basic understanding of PHP and want to bolster your skills, this is your book. Learn modern PHP features, such as namespaces, traits, generators, and closures. Discover how to find, use, and create PHP components. Follow best practices for application security, working with databases, errors and exceptions, and more. Learn tools and techniques for deploying, tuning, testing, and profiling your PHP applications. Explore Facebook’s HVVM and Hack language implementations—and how they affect modern PHP. Build a local development environment that closely matches your production server

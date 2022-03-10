@@ -2,4 +2,4 @@ www.it-ebooks.info   JUMP START JAVASCRIPT  BY ARA PEHLIVANIAN & DON NGUYEN  www
 
 @highlight
 
-JavaScript is a key technology in modern web development, enabling you to craft interactive, usable and engaging experiences for your users. Use JavaScript to solve real world problems: build forms, track user events and craft animations; Use JavaScript with HTML5 and CSS3; Build an entire JavaScript-powered application from scratch: a task management application. Plus you'll discover how to use modern techniques such as Canvas and Ajax.
+JavaScript is a key technology in modern web development, enabling you to craft interactive, usable and engaging experiences for your users. Use JavaScript to solve real world problems: build forms, track user events and craft animations; Use JavaScript with HTML5 and CSS3; Build an entire JavaScript-powered application from scratch: a task management application. Plus you'll discover how to use modern techniques such as Canvas and Ajax

@@ -2,18 +2,4 @@ Learning jQuery 1.3  Better Interaction Design and Web Development with  Simple 
 
 @highlight
 
-Better Interaction Design and Web Development with Simple JavaScript Techniques
-
-An introduction to jQuery that requires minimal programming experience
-Detailed solutions to specific client-side problems
-For web designers to create interactive elements for their designs
-For developers to create the best user interface for their web applications
-Packed with great examples, code, and clear explanations
-Revised and updated version of the first book to help you learn jQuery
-In Detail
-
-To build interesting, interactive sites, developers are turning to JavaScript libraries such as jQuery to automate common tasks and simplify complicated ones. Because many web developers have more experience with HTML and CSS than with JavaScript, the library's design lends itself to a quick start for designers with little programming experience. Experienced programmers will also be aided by its conceptual consistency.
-
-Revised and updated for version 1.3 of jQuery, this book teaches you the basics of jQuery for adding interactions and animations to your pages. Even if previous attempts at writing JavaScript have left you baffled, this book will guide you past the pitfalls associated with AJAX, events, effects, and advanced JavaScript language features.
-
-In this book, the authors share their knowledge, experience, and enthusiasm about jQuery to help you get the most from the library and to make your web applications shine. The book introduces jQuery and shows how you can write a functioning jQuery program in just three lines of code. It then guides you through CSS selectors and shows how to enhance the basic event handling mechanisms to give them a more elegant syntax. You will then learn to add impact to your actions through a set of simple visual effects and also to create, copy, reassemble, and embellish content using jQuery's DOM modification methods. You will also learn to send and retrieve information with AJAX methods. The book will then step you through many detailed, real-world examples and even equip you to extend the jQuery library itself with your own plug-ins.
+To build interesting, interactive sites, developers are turning to JavaScript libraries such as jQuery to automate common tasks and simplify complicated ones. Because many web developers have more experience with HTML and CSS than with JavaScript, the library's design lends itself to a quick start for designers with little programming experience. Experienced programmers will also be aided by its conceptual consistency. Revised and updated for version 1.3 of jQuery, this book teaches you the basics of jQuery for adding interactions and animations to your pages. Even if previous attempts at writing JavaScript have left you baffled, this book will guide you past the pitfalls associated with AJAX, events, effects, and advanced JavaScript language features. In this book, the authors share their knowledge, experience, and enthusiasm about jQuery to help you get the most from the library and to make your web applications shine. The book introduces jQuery and shows how you can write a functioning jQuery program in just three lines of code. It then guides you through CSS selectors and shows how to enhance the basic event handling mechanisms to give them a more elegant syntax. You will then learn to add impact to your actions through a set of simple visual effects and also to create, copy, reassemble, and embellish content using jQuery's DOM modification methods. You will also learn to send and retrieve information with AJAX methods. The book will then step you through many detailed, real-world examples and even equip you to extend the jQuery library itself with your own plug-ins

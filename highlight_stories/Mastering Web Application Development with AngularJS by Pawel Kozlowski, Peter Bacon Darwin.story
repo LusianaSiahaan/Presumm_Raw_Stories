@@ -2,4 +2,4 @@ Mastering Web Application  Development with AngularJS  Build single-page web app
 
 @highlight
 
-In Detail AngularJS is an open-source javascript framework. Its goal is to develop MVC-based web applications and reduce the amount of javascript needed to make web applications functional. The book will take the reader through the workflow of building an AngularJS app. Throughout the process of app creation, we will have a look at the different interaction points between design and development and the readers will learn how AngularJS helps both roles to build an application that works well, as well as how to create clean and maintainable front end markup and code.
+Its goal is to develop MVC-based web applications and reduce the amount of javascript needed to make web applications functional. The book will take the reader through the workflow of building an AngularJS app. Throughout the process of app creation, we will have a look at the different interaction points between design and development and the readers will learn how AngularJS helps both roles to build an application that works well, as well as how to create clean and maintainable front end markup and code

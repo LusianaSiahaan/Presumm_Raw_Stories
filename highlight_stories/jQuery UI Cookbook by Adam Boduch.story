@@ -2,4 +2,4 @@ jQuery UI Cookbook  70 recipes to create responsive and engaging user  interface
 
 @highlight
 
-jQuery UI is the quintessential framework for creating professional user interfaces. While jQuery core lays the foundation for interaction with the DOM and handling events, jQuery UI fills in the user interaction gap. This book will give you a huge productivity boost out of the box with jQuery UI, and help you understand the framework, inside and out.
+jQuery UI is the quintessential framework for creating professional user interfaces. While jQuery core lays the foundation for interaction with the DOM and handling events, jQuery UI fills in the user interaction gap. This book will give you a huge productivity boost out of the box with jQuery UI, and help you understand the framework, inside and out

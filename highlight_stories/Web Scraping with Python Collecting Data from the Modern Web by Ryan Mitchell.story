@@ -2,6 +2,4 @@ Web Scraping with Python Collecting Data from the Modern Web  Ryan Mitchell  Bos
 
 @highlight
 
-If programming is magic then web scraping is surely a form of wizardry. By writing a simple automated program, you can query web servers, request data, and parse it to extract the information you need. The expanded edition of this practical book not only introduces you web scraping, but also serves as a comprehensive guide to scraping almost every type of data from the modern web.
-
-Part I focuses on web scraping mechanics: using Python to request information from a web server, performing basic handling of the server’s response, and interacting with sites in an automated fashion. Part II explores a variety of more specific tools and applications to fit any web scraping scenario you’re likely to encounter.
+If programming is magic then web scraping is surely a form of wizardry. By writing a simple automated program, you can query web servers, request data, and parse it to extract the information you need. The expanded edition of this practical book not only introduces you web scraping, but also serves as a comprehensive guide to scraping almost every type of data from the modern web. Part I focuses on web scraping mechanics: using Python to request information from a web server, performing basic handling of the server’s response, and interacting with sites in an automated fashion. Part II explores a variety of more specific tools and applications to fit any web scraping scenario you’re likely to encounter

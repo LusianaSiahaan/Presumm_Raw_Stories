@@ -2,4 +2,4 @@ Version 1.0   ACKNOWLEDGMENTS  > m o c . k o o b e w o w w w w <   k o o B e   !
 
 @highlight
 
-Mobile Web Design, a book by industry expert Cameron Moll, provides a web standards approach for delivering content beyond the desktop. Much has been written about mobile devices. Plenty has been written about developing websites for the so-called "standa
+Mobile Web Design, a book by industry expert Cameron Moll, provides a web standards approach for delivering content beyond the desktop. Much has been written about mobile devices. Plenty has been written about developing websites

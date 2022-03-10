@@ -2,8 +2,4 @@ Modern  CSS  Master the Key Concepts of CSS   for Modern Web Development — Joe
 
 @highlight
 
-Come on a tour of “modern” CSS in 2020. This example-driven book demonstrates the concepts by showing code examples, screenshots, and diagrams to help clearly communicate the information.
-
-You'll start with the very basics of CSS: box model, colors, selectors and combinators, and specificity. Then gradually move through more intermediate topics - styling text, positioning, Z-index and stacking contexts, gradients, borders, and then to more advanced topics such as transforms, transitions, animations, flexbox, and CSS grid. Some features are only available in modern browsers (Chrome, Edge, Safari, and Firefox), but information about IE11 compatibility is included where possible.
-
-There is a lot of discussion about how hard CSS is, and how intimidated some people are by it, but it doesn’t have to be this way. Modern CSS uses a logical and understandable approach to break down and clearly explain the ins and outs of CSS.
+Come on a tour of “modern” CSS in 2020. This example-driven book demonstrates the concepts by showing code examples, screenshots, and diagrams to help clearly communicate the information. You'll start with the very basics of CSS: box model, colors, selectors and combinators, and specificity. Then gradually move through more intermediate topics - styling text, positioning, Z-index and stacking contexts, gradients, borders, and then to more advanced topics such as transforms, transitions, animations, flexbox, and CSS grid. Some features are only available in modern browsers (Chrome, Edge, Safari, and Firefox), but information about IE11 compatibility is included where possible. There is a lot of discussion about how hard CSS is, and how intimidated some people are by it, but it doesn’t have to be this way. Modern CSS uses a logical and understandable approach to break down and clearly explain the ins and outs of CSS

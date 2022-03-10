@@ -2,6 +2,5 @@ Node.js Web Development   Third Edition  Create real-time server-side applicatio
 
 @highlight
 
-Learn about server-side JavaScript with Node.js and Node modules through the most up-to-date book on Node.js web development
-Understand website development both with and without the Connect/Express web application framework
+Learn about server-side JavaScript with Node.js and Node modules through the most up-to-date book on Node.js web development. Understand website development both with and without the Connect/Express web application framework
 Develop both HTTP server and client applications

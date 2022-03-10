@@ -2,16 +2,5 @@ Learning  Perl 6  KEEPING THE EASY, HARD, AND IMPOSSIBLE WITHIN REACH  brian d f
 
 @highlight
 
-If you’re ready to get started with Perl 6, this is the book you want, whether you’re a programmer, system administrator, or web hacker. Perl 6 is a new language—a modern reinvention of Perl suitable for almost any task, from short fixes to complete web applications. This hands-on tutorial gets you started.
-
-Author brian d foy (Mastering Perl) provides a sophisticated introduction to this new programming language. Each chapter in this guide contains exercises to help you practice what you learn as you learn it. Other books may teach you to program in Perl 6, but this book will turn you into a Perl 6 programmer.
-
-Learn how to work with:
-
-• Numbers, strings, blocks, and positionals
-• Files and directories and input/output
-• Associatives, subroutines, classes, and roles
-• Junctions and sets
-• Regular expressions and built-in grammars
-• Concurrency features: Promises, supplies, and channels
-• Controlling external programs and other advanced features
+If you’re ready to get started with Perl 6, this is the book you want, whether you’re a programmer, system administrator, or web hacker. Perl 6 is a new language—a modern reinvention of Perl suitable for almost any task, from short fixes to complete web applications. This hands-on tutorial gets you started. Author brian d foy (Mastering Perl) provides a sophisticated introduction to this new programming language. Each chapter in this guide contains exercises to help you practice what you learn as you learn it. Other books may teach you to program in Perl 6, but this book will turn you into a Perl 6 programmer. Learn how to work with:
+Numbers, strings, blocks, and positionals; Files and directories and input/output; Associatives, subroutines, classes, and roles; Junctions and sets; Regular expressions and built-in grammars; Concurrency features: Promises, supplies, and channels; Controlling external programs and other advanced features

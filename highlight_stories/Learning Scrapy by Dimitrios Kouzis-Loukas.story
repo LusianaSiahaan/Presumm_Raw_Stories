@@ -2,8 +2,4 @@ Learning Scrapy  Learn the art of efficient web scraping and crawling   with Pyt
 
 @highlight
 
-Extract data from any source to perform real time analytics.
-Full of techniques and examples to help you crawl websites and extract data within hours.
-A hands-on guide to web scraping and crawling with real-life problems and solutions
-Book Description
 This book covers the long awaited Scrapy v 1.0 that empowers you to extract useful data from virtually any source with very little effort. It starts off by explaining the fundamentals of Scrapy framework, followed by a thorough description of how to extract data from any source, clean it up, shape it as per your requirement using Python and 3rd party APIs. Next you will be familiarised with the process of storing the scrapped data in databases as well as search engines and performing real time analytics on them with Spark Streaming. By the end of this book, you will perfect the art of scarping data for your applications with ease

@@ -2,7 +2,5 @@ Oh My JS The Best JavaScript Articles  Azat Mardan  This book is for sale at htt
 
 @highlight
 
-JavaScript is great! It's in the browser and on the server. We love it! But sometime we, JavaScript developers, find topics such as scoping, object instantiating, "this" context, etc. confusing and poorly documents. Oh My JavaScript is a collection of best articles on JavaScript/Node.js which will save your many hours of frustrations and internet searches!
-
-Oh My JavaScript: The Best Article is a compilation of publicly available resources conveniently edited and packaged in an ebook format (PDF, ePub, mobi). Attributions are carefully preserved.
+JavaScript is great! It's in the browser and on the server. We love it! But sometime we, JavaScript developers, find topics such as scoping, object instantiating, "this" context, etc. confusing and poorly documents. Oh My JavaScript is a collection of best articles on JavaScript/Node.js which will save your many hours of frustrations and internet searches! Oh My JavaScript: The Best Article is a compilation of publicly available resources conveniently edited and packaged in an ebook format (PDF, ePub, mobi). Attributions are carefully preserved.
 Fundamentas

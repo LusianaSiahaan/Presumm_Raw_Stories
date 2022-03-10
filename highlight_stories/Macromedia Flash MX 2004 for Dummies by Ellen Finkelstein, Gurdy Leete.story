@@ -2,4 +2,4 @@
 
 @highlight
 
-Macromedia Flash MX 2004 For Dummies guides beginning animators through the basics of creating their first Flash animations. Authors Ellen Finkelstein and Gurdy Leete, both experienced Flash professionals and trainers, help users create basic figures, add text and layers, incorporate user actions, edit and add sound, and publish the final results. Macromedia Flash MX 2004 For Dummies comes with a CD that includes all the examples used in the book, sample animations from other Flash users, and a trial version of the product itself.
+Macromedia Flash MX 2004 For Dummies guides beginning animators through the basics of creating their first Flash animations. Authors Ellen Finkelstein and Gurdy Leete, both experienced Flash professionals and trainers, help users create basic figures, add text and layers, incorporate user actions, edit and add sound, and publish the final results. Macromedia Flash MX 2004 For Dummies comes with a CD that includes all the examples used in the book, sample animations from other Flash users, and a trial version of the product itself

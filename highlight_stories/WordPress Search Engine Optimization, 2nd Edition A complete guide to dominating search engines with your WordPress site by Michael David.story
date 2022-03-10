@@ -2,4 +2,4 @@
 
 @highlight
 
-WordPress is a powerful platform for creating feature-rich and attractive websites but, with a little extra tweaking and effort, your WordPress site can dominate search engines and bring thousands of new customers to your business. WordPress Search Engine Optimization will show you the secrets that professional SEO companies use to take websites to the top of search results. You'll take your WordPress site to the next level; you'll brush aside even the stiffest competition with the advanced tutorials in this book.
+WordPress is a powerful platform for creating feature-rich and attractive websites but, with a little extra tweaking and effort, your WordPress site can dominate search engines and bring thousands of new customers to your business. WordPress Search Engine Optimization will show you the secrets that professional SEO companies use to take websites to the top of search results. You'll take your WordPress site to the next level; you'll brush aside even the stiffest competition with the advanced tutorials in this book

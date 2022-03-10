@@ -2,4 +2,4 @@ You Want to Do What with PHP?   Kevin Schroeder  MC Press Online, LLC Ketchum, I
 
 @highlight
 
-A creative look at the fundamentals of PHP programming, this manual shows practical but atypical examples of PHP code. Theories, considerations, and varying options--such as binary protocols, character encoding or scaling PHP applications with messaging--are presented as new approaches to solving problems. Taking into consideration operating system level options, this programming reference goes beyond the basics to offer more advanced and innovative options for building PHP applications.
+A creative look at the fundamentals of PHP programming, this manual shows practical but atypical examples of PHP code. Theories, considerations, and varying options--such as binary protocols, character encoding or scaling PHP applications with messaging--are presented as new approaches to solving problems. Taking into consideration operating system level options, this programming reference goes beyond the basics to offer more advanced and innovative options for building PHP applications

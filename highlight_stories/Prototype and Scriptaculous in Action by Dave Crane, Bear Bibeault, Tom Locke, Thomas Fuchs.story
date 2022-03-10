@@ -2,4 +2,4 @@ Prototype and Scriptaculous   in Action       Prototype and  Scriptaculous in Ac
 
 @highlight
 
-Common Ajax tasks should be easy, and with Prototype and Scriptaculous they are. Prototype and Scriptaculous are libraries of reusable javascript code that simplify Ajax development. Prototype provides helpful methods and objects that extend javascript in a safe, consistent way. Its clever Ajax request model simplifies cross-browser development. Scriptaculous, which is based on Prototype, offers handy pre-fabricated widgets for rich UI development.
+Common Ajax tasks should be easy, and with Prototype and Scriptaculous they are. Prototype and Scriptaculous are libraries of reusable javascript code that simplify Ajax development. Prototype provides helpful methods and objects that extend javascript in a safe, consistent way. Its clever Ajax request model simplifies cross-browser development. Scriptaculous, which is based on Prototype, offers handy pre-fabricated widgets for rich UI development

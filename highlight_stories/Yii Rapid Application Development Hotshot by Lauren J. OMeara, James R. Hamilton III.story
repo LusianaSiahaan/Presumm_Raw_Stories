@@ -2,10 +2,4 @@ Yii Rapid Application  Development Hotsh  t  Become a RAD hotshot with Yii, the 
 
 @highlight
 
-Yii is a high performance PHP framework for rapid web application development. It is well designed, well supported, easy to learn, and easy to maintain. If you are beginning to learn web development or are a seasoned programmer with demanding clients, learning Yii will benefit your projects and career.
-
-Yii Rapid Application Development Hotshot will guide you through a series of projects covering a variety of web development hot topics to build a complete application. You will explore key features of a web application as implemented in Yii and experience the power of rapid application development.
-
-Supercharge your projects and your programming ability by becoming a Yii Rapid Application Development Hotshot. Start with the topics that grab your attention or work through each project in sequence. At the end of each project, you will have a working application, a better understanding of Yii, and a new web development skill under your belt.
-
-Integrate with Google API. Gamify your data. Share your functionality as a service. Mobilize your app. Mine and report on your information. Have fun and produce results!
+Yii is a high performance PHP framework for rapid web application development. It is well designed, well supported, easy to learn, and easy to maintain. If you are beginning to learn web development or are a seasoned programmer with demanding clients, learning Yii will benefit your projects and career. Yii Rapid Application Development Hotshot will guide you through a series of projects covering a variety of web development hot topics to build a complete application. You will explore key features of a web application as implemented in Yii and experience the power of rapid application development. Supercharge your projects and your programming ability by becoming a Yii Rapid Application Development Hotshot. Start with the topics that grab your attention or work through each project in sequence. At the end of each project, you will have a working application, a better understanding of Yii, and a new web development skill under your belt. Integrate with Google API. Gamify your data. Share your functionality as a service. Mobilize your app. Mine and report on your information. Have fun and produce results

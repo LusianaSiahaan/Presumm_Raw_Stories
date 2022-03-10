@@ -2,6 +2,4 @@ Pro Android  with Kotlin  Developing Modern Mobile Apps — Peter Späth   Pro A
 
 @highlight
 
-Develop Android apps with Kotlin to create more elegant programs than the Java equivalent. This book covers the various aspects of a modern Android app that professionals are expected to encounter. There are chapters dealing with all the important aspects of the Android platform, including GUI design, file- and data-handling, coping with phone calls, multimedia apps, interaction with location and mapping services, monetizing apps, and much more.
-
-Pro Android with Kotlin is an invaluable source for developers wanting to build real-world state-of-the-art apps for modern Android devices.
+Develop Android apps with Kotlin to create more elegant programs than the Java equivalent. This book covers the various aspects of a modern Android app that professionals are expected to encounter. There are chapters dealing with all the important aspects of the Android platform, including GUI design, file- and data-handling, coping with phone calls, multimedia apps, interaction with location and mapping services, monetizing apps, and much more. Pro Android with Kotlin is an invaluable source for developers wanting to build real-world state-of-the-art apps for modern Android devices

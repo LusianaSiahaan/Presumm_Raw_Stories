@@ -2,4 +2,4 @@ Learning Highcharts  Create rich, intuitive, and interactive JavaScript data  vi
 
 @highlight
 
-Step-by-step instructions with real-live data to create bar charts, column charts and pie charts, to easily create artistic and professional quality charts. Learn tips and tricks to create a variety of charts such as horizontal gauge charts, projection charts, and circular ratio charts. Use and integrate Highcharts with jQuery Mobile and ExtJS 4, and understand how to run Highcharts on the server-side. Add advanced reporting capabilities and understand how to select the right chart for your data.
+Step-by-step instructions with real-live data to create bar charts, column charts and pie charts, to easily create artistic and professional quality charts. Learn tips and tricks to create a variety of charts such as horizontal gauge charts, projection charts, and circular ratio charts. Use and integrate Highcharts with jQuery Mobile and ExtJS 4, and understand how to run Highcharts on the server-side. Add advanced reporting capabilities and understand how to select the right chart for your data

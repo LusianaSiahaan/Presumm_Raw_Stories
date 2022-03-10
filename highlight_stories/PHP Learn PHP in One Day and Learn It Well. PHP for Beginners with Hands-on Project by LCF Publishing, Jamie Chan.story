@@ -2,31 +2,4 @@ Learn PHP in One Day and Learn It Well  PHP for Beginners with Hands-on Project 
 
 @highlight
 
-Learn PHP Fast and Learn It Well. Master PHP Programming with a unique Hands-On Project
-New Book by Best Selling Author Jamie Chan. Book 6 of the Learn Coding Fast Series.
-
-Do you want to learn PHP fast but are overwhelmed by all the information you find online? Or perhaps you have completed numerous PHP tutorials but are still unsure how everything works together.
-
-This book is for you.
-
-You no longer have to waste your time and money learning PHP from lengthy books, expensive online courses or fragmented PHP tutorials. This book covers all the major topics in PHP and is written in a concise and to the point manner. In addition, you'll be guided through a project at the end of the book where you get to apply the concepts learned and see how it all ties together.
-
-What this book offers...
-PHP for Beginners
-
-Complex concepts are broken down into simple steps to ensure that you can easily master PHP even if you have never coded before. Concepts are presented in a "to-the-point" style to cater to the busy individual; no fluff or unnecessary details.
-
-Careful selection of topics
-
-Topics are carefully selected to give you a broad exposure to PHP. These topics include HTML form handling, security management (prevention of XSS and SQL injection), object-oriented programming, error and exception handling techniques, databases and more.
-
-Carefully Chosen PHP Examples
-
-Examples are carefully chosen to illustrate all concepts. In addition, the output for all examples is provided immediately so you do not have to wait till you have access to your computer to test the examples.
-
-How is this book different...
-The best way to learn programming is by doing. This book includes a complete project at the end of the book where you get to build a mini-blog using PHP and MySQL.
-
-Working through the project gives you a chance to see how everything works together, including how to set up your servers, create a database, connect to it, process forms, manage security issues, handle errors and exceptions and more. Completing the project will not only give you an immense sense of achievement, it'll also help you retain the knowledge you've learned and master the language.
-
-Are you ready to dip your toes into the exciting world of PHP coding? This book is for you. Click the BUY button and download it now.
+You no longer have to waste your time and money learning PHP from lengthy books, expensive online courses or fragmented PHP tutorials. This book covers all the major topics in PHP and is written in a concise and to the point manner. In addition, you'll be guided through a project at the end of the book where you get to apply the concepts learned and see how it all ties together. Complex concepts are broken down into simple steps to ensure that you can easily master PHP even if you have never coded before. Concepts are presented in a "to-the-point" style to cater to the busy individual; no fluff or unnecessary details. Topics are carefully selected to give you a broad exposure to PHP. These topics include HTML form handling, security management (prevention of XSS and SQL injection), object-oriented programming, error and exception handling techniques, databases and more. Examples are carefully chosen to illustrate all concepts. In addition, the output for all examples is provided immediately so you do not have to wait till you have access to your computer to test the examples. The best way to learn programming is by doing. This book includes a complete project at the end of the book where you get to build a mini-blog using PHP and MySQL. Working through the project gives you a chance to see how everything works together, including how to set up your servers, create a database, connect to it, process forms, manage security issues, handle errors and exceptions and more. Completing the project will not only give you an immense sense of achievement, it'll also help you retain the knowledge you've learned and master the language

@@ -2,19 +2,4 @@ Learning Articulate Storyline  Harness the power of Storyline to create   state-
 
 @highlight
 
-Harness the power of Storyline to create stateoftheart elearning projects
-
-Overview
-
-Leverage Storyline’s no-programming approach and its wide range of features to rapidly create media-rich, high quality content and sophisticated interactions
-Bring content to life with intelligent and responsive learning and create a customized learning experience
-Optimize production workflow by easily importing, reusing, and sharing content, as well as editing layouts and interactions
-In Detail
-
-Storyline is an authoring tool packed with out-of-the-box features that don’t require any special knowledge to operate. That’s right; this is a programming-free zone! E-learning authoring is no longer limited to developers; the doors are now wide open for subject matter experts with their content, writers with their storyboards, and designers with their media to work in conjunction with developers to collectively create some very cool e-learning projects.
-
-"Learning Articulate Storyline" introduces the powerful and easy-to-use features that are changing the landscape of e-learning development. You will learn about the new paradigms and features that set Storyline apart from other development tools. You’ll gain insight into how you can best leverage your skills and some best practices when working with Storyline.
-
-Storyline rocks! And you’re about to discover why. The aim of this book is to help you bring content to life in interesting and engaging ways, customizing the learner experience, allowing for hands-on participation, and optimizing your production processes to streamline your efforts. This book will help you enhance your skills and become an accomplished e-learning author and Storyline user.
-
-You’ll work on several different projects, all created from scratch by you as you work through this book. Each task focuses on a set of complementary topics to complete the project. You’ll be up and running building your first project within 10 minutes of starting this book and will add content, animate it, and control object and slide behavior to complete your first project. You’ll then move on to more advanced topics to incorporate media elements, quizzing, and scenarios, then conclude by publishing your projects.
+Storyline is an authoring tool packed with out-of-the-box features that don’t require any special knowledge to operate. That’s right; this is a programming-free zone! E-learning authoring is no longer limited to developers; the doors are now wide open for subject matter experts with their content, writers with their storyboards, and designers with their media to work in conjunction with developers to collectively create some very cool e-learning projects. "Learning Articulate Storyline" introduces the powerful and easy-to-use features that are changing the landscape of e-learning development. You will learn about the new paradigms and features that set Storyline apart from other development tools. You’ll gain insight into how you can best leverage your skills and some best practices when working with Storyline. Storyline rocks! And you’re about to discover why. The aim of this book is to help you bring content to life in interesting and engaging ways, customizing the learner experience, allowing for hands-on participation, and optimizing your production processes to streamline your efforts. This book will help you enhance your skills and become an accomplished e-learning author and Storyline user. You’ll work on several different projects, all created from scratch by you as you work through this book. Each task focuses on a set of complementary topics to complete the project. You’ll be up and running building your first project within 10 minutes of starting this book and will add content, animate it, and control object and slide behavior to complete your first project. You’ll then move on to more advanced topics to incorporate media elements, quizzing, and scenarios, then conclude by publishing your projects

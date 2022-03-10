@@ -2,4 +2,4 @@ Machine	Learning  Step-by-Step	Guide	To	Implement  Machine	Learning	Algorithms	w
 
 @highlight
 
-This book is for anyone who would like to learn how to develop machine-learning systems. We will cover the most important concepts about machine learning algorithms, in both a  theoretical and a practical way, and we'll implement many machine-learning algorithms using the Scikit-learn library in the Python programming language. In the first chapter, you'll learn the most important concepts of machine learning, and, in the next chapter, you'll work mainly with the classification. In the last chapter you'll learn how to train your model. I assume that you've knowledge of the basics of programming
+This book is for anyone who would like to learn how to develop machine-learning systems. We will cover the most important concepts about machine learning algorithms, in both a  theoretical and a practical way, and we'll implement many machine-learning algorithms using the Scikit-learn library in the Python programming language. In the first chapter, you'll learn the most important concepts of machine learning, and, in the next chapter, you'll work mainly with the classification

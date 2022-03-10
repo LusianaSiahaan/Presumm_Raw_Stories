@@ -2,12 +2,4 @@ S  e  E  c  o  ditio  n d   n  Kubernetes     Up & Running  Dive into the Future
 
 @highlight
 
-Kubernetes radically changes the way applications are built and deployed in the cloud. Since its introduction in 2014, this container orchestrator has become one of the largest and most popular open source projects in the world. The updated edition of this practical book shows developers and ops personnel how Kubernetes and container technology can help you achieve new levels of velocity, agility, reliability, and efficiency.
-
-Kelsey Hightower, Brendan Burns, and Joe Beda—who’ve worked on Kubernetes at Google and beyond—explain how this system fits into the lifecycle of a distributed application. You’ll learn how to use tools and APIs to automate scalable distributed systems, whether it’s for online services, machine learning applications, or a cluster of Raspberry Pi computers.
-
-Create a simple cluster to learn how Kubernetes works
-Dive into the details of deploying an application using Kubernetes
-Learn specialized objects in Kubernetes, such as DaemonSets, jobs, ConfigMaps, and secrets
-Explore deployments that tie together the lifecycle of a complete application
-Get practical examples of how to develop and deploy real-world applications in Kubernetes
+Kubernetes radically changes the way applications are built and deployed in the cloud. Since its introduction in 2014, this container orchestrator has become one of the largest and most popular open source projects in the world. The updated edition of this practical book shows developers and ops personnel how Kubernetes and container technology can help you achieve new levels of velocity, agility, reliability, and efficiency. Kelsey Hightower, Brendan Burns, and Joe Beda—who’ve worked on Kubernetes at Google and beyond—explain how this system fits into the lifecycle of a distributed application. You’ll learn how to use tools and APIs to automate scalable distributed systems, whether it’s for online services, machine learning applications, or a cluster of Raspberry Pi computers. Create a simple cluster to learn how Kubernetes works. Dive into the details of deploying an application using Kubernetes. Learn specialized objects in Kubernetes, such as DaemonSets, jobs, ConfigMaps, and secrets. Explore deployments that tie together the lifecycle of a complete application. Get practical examples of how to develop and deploy real-world applications in Kubernetes

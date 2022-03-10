@@ -2,17 +2,4 @@ jQuery A Beginner’s Guide   About the Author John Pollock  Huntsville, Texas  
 
 @highlight
 
-Essential Skills--Made Easy!
-Learn the fundamentals of jQuery programming in no time. jQuery: A Beginner's Guide starts with the basics--from including the library in an HTML document to element selection, event handling, and CSS style manipulation. Next, it's on to JavaScript and the DOM, animation and effects, the Event object, and form validation. The book then delves into AJAX and plugins and covers more advanced techniques such as debugging and unit testing. Get started with jQuery right away using this fast-paced tutorial!
-
-Designed for Easy Learning
-
-Key Skills & Concepts -- Chapter-opening lists of specific skills covered in the chapter
-Ask the Expert -- Q&A sections filled with bonus information and helpful tips
-Try This -- Hands-on exercises that show you how to apply your skills
-Notes -- Extra information related to the topic being covered
-Tips -- Helpful reminders or alternate ways of doing things
-Cautions -- Errors and pitfalls to avoid
-Annotated Syntax -- Example code with commentary that describes the programming techniques being illustrated
-Self Tests -- Chapter-ending quizzes to reinforce your skills
-Ready-to-use code at www.mhprofessional.com/computingdownload
+Learn the fundamentals of jQuery programming in no time. jQuery: A Beginner's Guide starts with the basics--from including the library in an HTML document to element selection, event handling, and CSS style manipulation. Next, it's on to JavaScript and the DOM, animation and effects, the Event object, and form validation. The book then delves into AJAX and plugins and covers more advanced techniques such as debugging and unit testing. Get started with jQuery right away using this fast-paced tutorial

@@ -2,4 +2,4 @@
 
 @highlight
 
-JDBC Metadata, MySQL, and Oracle Recipes is the only book that focuses on metadata or annotation-based code recipes for JDBC API for use with Oracle and MySQL. It continues where the author's other book, JDBC Recipes: A Problem-Solution Approach, leaves off.This new edition is also a Java EE 5-compliant book, perfect for lightweight Java database development. And it provides cut-and-paste code templates that can be immediately customized and applied in each developer's application development.
+JDBC Metadata, MySQL, and Oracle Recipes is the only book that focuses on metadata or annotation-based code recipes for JDBC API for use with Oracle and MySQL. It continues where the author's other book, JDBC Recipes: A Problem-Solution Approach, leaves off.This new edition is also a Java EE 5-compliant book, perfect for lightweight Java database development. And it provides cut-and-paste code templates that can be immediately customized and applied in each developer's application development

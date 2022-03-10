@@ -2,11 +2,4 @@ Learning   Progressive Web   Apps   The Pearson Addison-Wesley   Learning Series
 
 @highlight
 
-Software developers have two options for the apps they build: native apps targeting a specific device or web apps that run on any device. Building native apps is challenging, especially when your app targets multiple system types―i.e., desktop computers, smartphones, televisions―because user experience varies dramatically across devices.
-
-Service Workers―a relatively new technology―make it easier for web apps to bridge the gap between native and web capabilities. In Learning Progressive Web Apps, author John M. Wargo demonstrates how to use Service Workers to enhance the capabilities of a web app to create Progressive Web Apps (PWA). He focuses on the technologies that enable PWAs and how to use those technologies to enhance your web apps to deliver a more native-like experience.
-
-• Build web apps a user can easily install on their local system and that work offline or on low-quality networks
-• Utilize caching strategies that give you control over which app resources are cached and when
-• Deliver background processing in a web application
-• Implement push notifications that enable an app to easily engage with users or trigger action from a remote server
+Software developers have two options for the apps they build: native apps targeting a specific device or web apps that run on any device. Building native apps is challenging, especially when your app targets multiple system types―i.e., desktop computers, smartphones, televisions―because user experience varies dramatically across devices. Service Workers―a relatively new technology―make it easier for web apps to bridge the gap between native and web capabilities. In Learning Progressive Web Apps, author John M. Wargo demonstrates how to use Service Workers to enhance the capabilities of a web app to create Progressive Web Apps (PWA). He focuses on the technologies that enable PWAs and how to use those technologies to enhance your web apps to deliver a more native-like experience. Build web apps a user can easily install on their local system and that work offline or on low-quality networks. Utilize caching strategies that give you control over which app resources. Deliver background processing in a web application. Implement push notifications that enable an app to easily engage with users or trigger action from a remote server

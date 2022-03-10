@@ -2,4 +2,4 @@ Praise for Learning JavaScript  “Between modern web interfaces, server side te
 
 @highlight
 
-With the arrival of HTML5, jQuery, and Ajax, javascript web development skills are more valuable than ever! This complete, hands-on javascript tutorial covers everything you need to know now. Using line-by-line code walkthroughs and end-of-chapter exercises, top web developer and speaker Tim Wright will help you get results fast, even if you’ve never written a line of javascript before.
+With the arrival of HTML5, jQuery, and Ajax, javascript web development skills are more valuable than ever! This complete, hands-on javascript tutorial covers everything you need to know now. Using line-by-line code walkthroughs and end-of-chapter exercises, top web developer and speaker Tim Wright will help you get results fast, even if you’ve never written a line of javascript before

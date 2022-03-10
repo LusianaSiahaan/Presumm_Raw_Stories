@@ -2,19 +2,4 @@ Learning React  Second Edition   The Pearson Addison-Wesley   Learning Series   
 
 @highlight
 
-As far as new web frameworks and libraries go, React is quite the runaway success. It not only deals with the most common problems developers face when building complex apps, it throws in a few additional tricks that make building the visuals for such apps much, much easier.
-
-What React isn’t, though, is beginner-friendly and approachable. Until now. In Learning React , author Kirupa Chinnathambi brings his fresh, clear, and very personable writing style to help web developers new to React understand its fundamentals and how to use it to build really performant (and awesome) apps.
-
-The only book on the market that helps you get your first React app up and running in just minutes, Learning React is chock-full of colorful illustrations to help you visualize difficult concepts and practical step-by-step examples to show you how to apply what you learn.
-
-• Build your first React app
-• Create components to define parts of your UI
-• Combine components into other components to build more complex UIs
-• Use JSX to specify visuals without writing full-fledged JavaScript
-• Deal with maintaining state
-• Work with React’s way of styling content
-• Make sense of the mysterious component lifecycle
-• Build multi-page apps using routing and views
-• Optimize your React workflow using tools such as Node, Babel, webpack, and others
-• Use Redux to make managing your app data and state easy
+As far as new web frameworks and libraries go, React is quite the runaway success. It not only deals with the most common problems developers face when building complex apps, it throws in a few additional tricks that make building the visuals for such apps much, much easier. What React isn’t, though, is beginner-friendly and approachable. Until now. In Learning React , author Kirupa Chinnathambi brings his fresh, clear, and very personable writing style to help web developers new to React understand its fundamentals and how to use it to build really performant (and awesome) apps. The only book on the market that helps you get your first React app up and running in just minutes, Learning React is chock-full of colorful illustrations to help you visualize difficult concepts and practical step-by-step examples to show you how to apply what you learn. Build your first React app. Create components to define parts of your UI. Combine components into other components to build more complex UIs. Use JSX to specify visuals without writing full-fledged JavaScript. Deal with maintaining state. Work with React’s way of styling content. Make sense of the mysterious component lifecycle. Build multi-page apps using routing and views. Optimize your React workflow using tools such as Node, Babel, webpack, and others. Use Redux to make managing your app data and state easy

@@ -2,4 +2,4 @@ Team-Fly®    XPath Essentials  Andrew Watt  Wiley Computer Publishing  John Wil
 
 @highlight
 
-This guide for Web masters and IT programmers shows how XPath allows XML data to be restructured so that it can be transformed, displayed, and exchanged among companies that may not be using the same DTDs or schemas. Examples and source code illustrate practical applications of XPath and its framework, syntax, semantics, and use. Watt has been a contributing author to several XML titles.
+This guide for Web masters and IT programmers shows how XPath allows XML data to be restructured so that it can be transformed, displayed, and exchanged among companies that may not be using the same DTDs or schemas. Examples and source code illustrate practical applications of XPath and its framework, syntax, semantics, and use. Watt has been a contributing author to several XML titles

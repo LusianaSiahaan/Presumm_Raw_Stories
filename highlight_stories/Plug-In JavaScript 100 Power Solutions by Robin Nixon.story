@@ -2,4 +2,4 @@ Plug-in JavaScript  100 POWER SOLUTIONS  Robin Nixon  New York   Chicago   San F
 
 @highlight
 
-Plug-in JavaScript delivers 100 JavaScript power solutions in one handy guide. You can use them right away to supercharge your JavaScript applications. Each chapter offers complete, working examples for specific end results, In this time-saving tool, all of the code is extensively documented along with tips for adapting it for your own requirements. Inside, you'll find ready-made JavaScript plug-ins for animation, interaction, menus, text, audio, and visual effects, forms, and much more.
+Plug-in JavaScript delivers 100 JavaScript power solutions in one handy guide. You can use them right away to supercharge your JavaScript applications. Each chapter offers complete, working examples for specific end results, In this time-saving tool, all of the code is extensively documented along with tips for adapting it for your own requirements. Inside, you'll find ready-made JavaScript plug-ins for animation, interaction, menus, text, audio, and visual effects, forms, and much more

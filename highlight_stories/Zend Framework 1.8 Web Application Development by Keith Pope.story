@@ -2,4 +2,4 @@ Zend Framework 1.8   Web Application Development  Design, develop, and deploy fe
 
 @highlight
 
-This book is an example-driven tutorial that takes you through the process of building Model-View-Controller-based web applications. You will create and develop a storefront application. It also covers common mistakes and best practices that will be helpful for developers. This book is for PHP web developers who want to get started with Zend Framework. If you are already using this framework, you will learn how to use it in the best way and produce better applications. Basic knowledge of Object Oriented design will be helpful.
+This book is an example-driven tutorial that takes you through the process of building Model-View-Controller-based web applications. You will create and develop a storefront application. It also covers common mistakes and best practices that will be helpful for developers. This book is for PHP web developers who want to get started with Zend Framework. If you are already using this framework, you will learn how to use it in the best way and produce better applications. Basic knowledge of Object Oriented design will be helpful

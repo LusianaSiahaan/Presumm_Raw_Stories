@@ -2,6 +2,4 @@ YUI 3 Cookbook  Evan Goer  Beijing   Cambridge   Farnham   Köln   Sebastopol   
 
 @highlight
 
-Solve a wide range of problems in your web application quickly and efficiently with the Yahoo! User Interface Library (YUI). With this definitive, getting-started guide to version 3 of the popular open source JavaScript library, you’ll learn how to address many of the most common and challenging problems that web development presents.
-
-YUI 3 Cookbook introduces specific implementation patterns in the library, demonstrating granular solutions for everything from simple page effects to sophisticated web apps. Experienced users will learn how to create modules that load on demand; generate beautiful documentation; and write powerful and flexible Widgets, Models, and Views.
+Solve a wide range of problems in your web application quickly and efficiently with the Yahoo! User Interface Library (YUI). With this definitive, getting-started guide to version 3 of the popular open source JavaScript library, you’ll learn how to address many of the most common and challenging problems that web development presents. YUI 3 Cookbook introduces specific implementation patterns in the library, demonstrating granular solutions for everything from simple page effects to sophisticated web apps. Experienced users will learn how to create modules that load on demand; generate beautiful documentation; and write powerful and flexible Widgets, Models, and Views

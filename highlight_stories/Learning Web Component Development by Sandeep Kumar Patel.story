@@ -2,10 +2,4 @@ Learning Web Component  Development  Discover the potential of web components us
 
 @highlight
 
-Gain a practical understanding of web components through real-world examples
-Learn to construct a full and functional web component with native JavaScript
-Build your toolbox for web component development by harnessing the power of PolymerJS, ReactJS, Bosonic, and Mozilla Bricks
-Book Description
-Web components are an exciting new set of web standards used to provide reusable and powerful widgets by encapsulating and extending HTML and CSS. Web components are rapidly coming of age and are ready to make their debut in your browser.
-
-Starting with an introduction to all the core concepts of web component specifications, you will be taken through building your own custom clock component. You will then get to grips with Shadow DOM, HTML Import, and templating as you create a component using pure JavaScript. Following this, you'll explore the core tools and libraries for web component development, including Polymer, Bosonic, Mozilla Brick, and ReactJS, and learn how to put them to work for practical development. This book will provide you with a detailed understanding of architecture, configuration, and selecting the right tool for you and your needs.
+Web components are an exciting new set of web standards used to provide reusable and powerful widgets by encapsulating and extending HTML and CSS. Web components are rapidly coming of age and are ready to make their debut in your browser. Starting with an introduction to all the core concepts of web component specifications, you will be taken through building your own custom clock component. You will then get to grips with Shadow DOM, HTML Import, and templating as you create a component using pure JavaScript. Following this, you'll explore the core tools and libraries for web component development, including Polymer, Bosonic, Mozilla Brick, and ReactJS, and learn how to put them to work for practical development. This book will provide you with a detailed understanding of architecture, configuration, and selecting the right tool for you and your needs

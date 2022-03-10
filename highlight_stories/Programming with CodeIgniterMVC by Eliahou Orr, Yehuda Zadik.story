@@ -2,12 +2,4 @@ Programming with CodeIgniter  MVC  Build feature-rich web applications using   t
 
 @highlight
 
-The CodeIgniter Model-View-Controller framework provides genius simplicity, flexibility, and efficient resource usage, boosting performance and reusability.
-
-"Programming with CodeIgniter MVC" reviews the unique features of CodeIgniterusingsimple, easy-to-follow, and practical examples.
-
-Programming with CodeIgniter MVCprovides a simple step-by-step guide to efficiently utilizingthe CodeIgniter MVC framework for developing web applications. This book is packed with engaging examples to understand the usage of controllers, libraries, and CIModels. This book commences with a quick discussion of the CodeIgniter framework and simple examples of developing applications. It will then cover CI naming convention rules, mandatory and optional configurations, and usage within a CI project. It will also cover user defined configurations.
-
-By the end of this book, you will not only understand user-defined libraries in a CI framework, but also their services, role, usage, and scope with the help of an example-based approach. The book also covers helpers, models, and views, as well as their usage.
-
-Using this book, youwill soonbe able to develop feature-rich web applications using the CodeIgniter MVC framework. "Programming with CodeIgniter MVC" is a one-stop solution to developing solutions with CodeIgniter MVC.
+Programming with CodeIgniter MVCprovides a simple step-by-step guide to efficiently utilizingthe CodeIgniter MVC framework for developing web applications. This book is packed with engaging examples to understand the usage of controllers, libraries, and CIModels. This book commences with a quick discussion of the CodeIgniter framework and simple examples of developing applications. It will then cover CI naming convention rules, mandatory and optional configurations, and usage within a CI project. It will also cover user defined configurations. By the end of this book, you will not only understand user-defined libraries in a CI framework, but also their services, role, usage, and scope with the help of an example-based approach. The book also covers helpers, models, and views, as well as their usage. Using this book, youwill soonbe able to develop feature-rich web applications using the CodeIgniter MVC framework. "Programming with CodeIgniter MVC" is a one-stop solution to developing solutions with CodeIgniter MVC

@@ -2,8 +2,4 @@ IN ACTION  Dustin Metzgar Foreword by Scott Hanselman  M A N N I N G   Options f
 
 @highlight
 
-.NET Core is a subset of the .NET framework with libraries and runtimes that drastically reduce its footprint, so you can write and run .NET applications more efficiently.
-
-.NET Core in Action shows .NET developers how to build professional software applications with .NET Core. By the end of this book, readers will be able to convert existing .NET code to work on multiple platforms or start new projects with knowledge of the tools and capabilities of .NET Core.
-
-Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.
+.NET Core is a subset of the .NET framework with libraries and runtimes that drastically reduce its footprint, so you can write and run .NET applications more efficiently. .NET Core in Action shows .NET developers how to build professional software applications with .NET Core. By the end of this book, readers will be able to convert existing .NET code to work on multiple platforms or start new projects with knowledge of the tools and capabilities of .NET Core

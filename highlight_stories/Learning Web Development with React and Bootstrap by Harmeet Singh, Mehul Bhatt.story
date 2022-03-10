@@ -2,8 +2,4 @@ Learning Web Development with React and Bootstrap    Build real-time responsive 
 
 @highlight
 
-Showcase the power of React-Bootstrap through real-world examples
-
-Explore the benefits of integrating React with various frameworks and APIs
-
-See the benefits of using the latest frameworks to make your web development experience enchanting
+Showcase the power of React-Bootstrap through real-world examples. Explore the benefits of integrating React with various frameworks and APIs. See the benefits of using the latest frameworks to make your web development experience enchanting

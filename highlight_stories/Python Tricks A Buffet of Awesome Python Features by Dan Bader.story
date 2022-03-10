@@ -2,8 +2,4 @@ Python Tricks: The Book  Dan Bader   For online information and ordering of this
 
 @highlight
 
-With Python Tricks: The Book you’ll discover Python’s best practices and the power of beautiful & Pythonic code with simple examples and a step-by-step narrative.
-
-You'll get one step closer to mastering Python, so you can write beautiful and idiomatic code that comes to you naturally.
-
-Learning the ins and outs of Python is difficult—and with this book you'll be able to focus on the practical skills that really matter. Discover the “hidden gold” in Python’s standard library and start writing clean and Pythonic code today.
+With Python Tricks: The Book you’ll discover Python’s best practices and the power of beautiful & Pythonic code with simple examples and a step-by-step narrative. You'll get one step closer to mastering Python, so you can write beautiful and idiomatic code that comes to you naturally. Learning the ins and outs of Python is difficult—and with this book you'll be able to focus on the practical skills that really matter. Discover the “hidden gold” in Python’s standard library and start writing clean and Pythonic code today

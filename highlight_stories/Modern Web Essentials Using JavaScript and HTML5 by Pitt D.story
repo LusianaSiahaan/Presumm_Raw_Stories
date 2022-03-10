@@ -2,9 +2,4 @@ Keyhole Software, LLC. 8900 State Line Road, Suite 455 Leawood, KS 66206 Tel 877
 
 @highlight
 
-Developing single page applications with JavaScript and HTML5 solves an enterprise pain point – how to reach users on various platforms without diminishing user experience. This book provides tools for a thorough understanding of three topics integral to effective enterprise-level, web SPA development: JavaScript language essentials, HTML5 specification features, and responsive design principles.
-Topics included:
-- Introduction
-- JavaScript Essentials
-- HTML5 Essentials for SPA Development in the Enterprise
-- Responsive Design.
+Developing single page applications with JavaScript and HTML5 solves an enterprise pain point – how to reach users on various platforms without diminishing user experience. This book provides tools for a thorough understanding of three topics integral to effective enterprise-level, web SPA development: JavaScript language essentials, HTML5 specification features, and responsive design principles. Topics included: Introduction, JavaScript Essentials, HTML5 Essentials for SPA Development in the Enterprise, Responsive Design

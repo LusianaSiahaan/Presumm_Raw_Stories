@@ -2,6 +2,4 @@ Programming  PyTorch for  Deep Learning  Creating and Deploying Deep Learning  A
 
 @highlight
 
-Take the next steps toward mastering deep learning, the machine learning method that’s transforming the world around us by the second. In this practical book, you’ll get up to speed on key ideas using Facebook’s open source PyTorch framework and gain the latest skills you need to create your very own neural networks.
-
-Ian Pointer shows you how to set up PyTorch on a cloud-based environment, then walks you through the creation of neural architectures that facilitate operations on images, sound, text,and more through deep dives into each element. He also covers the critical concepts of applying transfer learning to images, debugging models, and PyTorch in production.
+Take the next steps toward mastering deep learning, the machine learning method that’s transforming the world around us by the second. In this practical book, you’ll get up to speed on key ideas using Facebook’s open source PyTorch framework and gain the latest skills you need to create your very own neural networks. Ian Pointer shows you how to set up PyTorch on a cloud-based environment, then walks you through the creation of neural architectures that facilitate operations on images, sound, text,and more through deep dives into each element. He also covers the critical concepts of applying transfer learning to images, debugging models, and PyTorch in production

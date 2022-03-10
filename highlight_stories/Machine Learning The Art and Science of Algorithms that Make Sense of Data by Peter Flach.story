@@ -2,16 +2,4 @@ MACHINE LEARNING  The Art and Science of Algorithms  that Make Sense of Data  As
 
 @highlight
 
-As one of the most comprehensive machine learning texts around, this book does justice to the field’s incredible richness, but without losing sight of the unifying principles. Peter Flach’s clear, example-based approach begins by discussing how a spam filter works, which gives an immediate introduction to machine learning in action, with a minimum of technical fuss. He covers a wide range of logical, geometric and statistical models, and state-of-the-art topics such as matrix factorisation and ROC analysis. Particular attention is paid to the central role played by features.
-Machine Learning will set a new standard as an introductory textbook:
-
-• The Prologue and Chapter 1 are freely available on-line, providing an accessible first step into machine learning.
-
-• The use of established terminology is balanced with the introduction of new and useful concepts.
-
-• Well-chosen examples and illustrations form an integral part of the text.
-
-• Boxes summarise relevant background material and provide pointers for revision. Each chapter concludes with a summary and suggestions for further reading.
-
-• A list of "Important points to remember" is included at the back of the book together with an extensive index to help readers navigate through the material.
-
+As one of the most comprehensive machine learning texts around, this book does justice to the field’s incredible richness, but without losing sight of the unifying principles. Peter Flach’s clear, example-based approach begins by discussing how a spam filter works, which gives an immediate introduction to machine learning in action, with a minimum of technical fuss. He covers a wide range of logical, geometric and statistical models, and state-of-the-art topics such as matrix factorisation and ROC analysis. Particular attention is paid to the central role played by features. Machine Learning will set a new standard as an introductory textbook: The Prologue and Chapter 1 are freely available on-line, providing an accessible first step into machine learning; The use of established terminology is balanced with the introduction of new and useful concepts; Well-chosen examples and illustrations form an integral part of the text; Boxes summarise relevant background material and provide pointers for revision. Each chapter concludes with a summary and suggestions for further reading; A list of "Important points to remember" is included at the back of the book together with an extensive index to help readers navigate through the material

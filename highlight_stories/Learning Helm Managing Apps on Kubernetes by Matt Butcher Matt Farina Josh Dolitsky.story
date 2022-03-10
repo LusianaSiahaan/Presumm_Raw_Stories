@@ -2,14 +2,4 @@ Learning Helm  Managing Apps on Kubernetes  Matt Butcher, Matt Farina, and Josh 
 
 @highlight
 
-Get up to speed with Helm, the preeminent package manager for the Kubernetes container orchestration system. This practical guide shows you how to efficiently create, install, and manage the applications running inside your containers. Helm maintainers Matt Butcher, Matt Farina, and Josh Dolitsky explain how this package manager fits into the Kubernetes ecosystem and provide an inside look at Helm's design and best practices.
-
-More than 70% of the organizations that work with Kubernetes use Helm today. While the Helm community provides thousands of packages, or charts, to help you get started, this book walks developers and DevOps engineers through the process of creating custom charts to package applications. If you have a working understanding of Kubernetes, you're ready to go.
-
-• Explore primary features including frequently used Helm commands
-• Learn how to build and deploy Helm charts from scratch
-• Use Helm to manage complexity and achieve repeatable deployments
-• Package an application and its dependencies for easy installation
-• Manage the entire lifecycle of applications on Kubernetes
-• Explore ways to extend Helm to add features and functionality
-• Learn features for testing, handling dependencies, and providing security
+Get up to speed with Helm, the preeminent package manager for the Kubernetes container orchestration system. This practical guide shows you how to efficiently create, install, and manage the applications running inside your containers. Helm maintainers Matt Butcher, Matt Farina, and Josh Dolitsky explain how this package manager fits into the Kubernetes ecosystem and provide an inside look at Helm's design and best practices. More than 70% of the organizations that work with Kubernetes use Helm today. While the Helm community provides thousands of packages, or charts, to help you get started, this book walks developers and DevOps engineers through the process of creating custom charts to package applications. If you have a working understanding of Kubernetes, you're ready to go. Explore primary features including frequently used Helm commands, Learn how to build and deploy Helm charts from scratch, Use Helm to manage complexity and achieve repeatable deployments, Package an application and its dependencies for easy installation, Manage the entire lifecycle of applications on Kubernetes, Explore ways to extend Helm to add features and functionality, Learn features for testing, handling dependencies, and providing security

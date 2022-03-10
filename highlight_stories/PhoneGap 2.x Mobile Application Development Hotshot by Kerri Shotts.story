@@ -2,18 +2,4 @@ PhoneGap 2.x  Mobile Application  Development   HOTSH  T  Create exciting apps f
 
 @highlight
 
-Overview
-
-Ten apps included to help you get started on your very own exciting mobile app.
-These apps include working with localization, social networks, geolocation, as well as the camera, audio, video, plugins, and more.
-Apps cover the spectrum from productivity apps, educational apps, all the way to entertainment and games.
-Explore design patterns common in apps designed for mobile devices
-Many exciting and engaging suggestions that you can use to improve your apps
-A practical guide for those with some HTML, JavaScript, and CSS experience who want to take their ideas to the next frontier: mobile apps
-In Detail
-
-Do you want to create mobile apps that run on multiple mobile platforms? With PhoneGap (Apache Cordova), you can put your existing development skills and HTML, CSS, and JavaScript knowledge to great use by creating mobile apps for cross-platform devices.
-
-"PhoneGap 2.x Mobile Application Development Hotshot" covers the concepts necessary to let you create great apps for mobile devices. The book includes ten apps varying in difficulty that cover the gamut – productivity apps, games, and more - that are designed to help you learn how to use PhoneGap to create a great experience.
-
-"PhoneGap 2.x Mobile Application Development Hotshot" covers the creation of ten apps, from their design to their completion, using the PhoneGap APIs. The book begins with the importance of localization and how HTML, CSS, and JavaScript interact to create the mobile app experience. The book then proceeds through mobile apps of various genres, including productivity apps, entertainment apps, and games. Each app covers specific items provided by PhoneGap that help make the mobile app experience better. This book covers the camera, geolocation, audio and video, and much more in order to help you create feature-rich mobile apps.
+"PhoneGap 2.x Mobile Application Development Hotshot" covers the concepts necessary to let you create great apps for mobile devices. The book includes ten apps varying in difficulty that cover the gamut – productivity apps, games, and more - that are designed to help you learn how to use PhoneGap to create a great experience. "PhoneGap 2.x Mobile Application Development Hotshot" covers the creation of ten apps, from their design to their completion, using the PhoneGap APIs. The book begins with the importance of localization and how HTML, CSS, and JavaScript interact to create the mobile app experience. The book then proceeds through mobile apps of various genres, including productivity apps, entertainment apps, and games. Each app covers specific items provided by PhoneGap that help make the mobile app experience better. This book covers the camera, geolocation, audio and video, and much more in order to help you create feature-rich mobile apps
